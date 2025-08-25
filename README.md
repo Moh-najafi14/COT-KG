@@ -75,7 +75,9 @@ ground_truth = "The patient was admitted to the hospital."
 generated = "A sick person went to the clinic."
 
 # (Steps: extract nouns → embed → compute similarities → visualize with UMAP)
+---
 
 ## Acknowledgment
 This code was developed by **Ivan Makohon**, Computer Science Department, Old Dominion University.
+
 
