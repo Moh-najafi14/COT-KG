@@ -1,0 +1,4 @@
+source,target,relationship,confidence
+M79.81,T14.8,Complication of,High
+E11.9,M79.81,Associated with,Moderate
+R05,T14.8,Cause of,High

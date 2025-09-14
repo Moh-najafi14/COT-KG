@@ -1,0 +1,406 @@
+article_id,text_references,icd_codes,age,gender,text,icd_match_count,total_icd_count,bin,text_summary
+S2340-98942015000100005-1,metastatic liver lesion; vomiting; disease; resection of rectum; liver biopsy; dyspnoea; left ovarian papillary serous carcinoma; AC lift 125; unconsciousness,C78 R11 R69 0DTP 0FB0 R06 C56 R97 R55,62,female,"We report the case of a 62-year-old patient who in December 2010 was operated on for a serous papillary carcinoma in the left ovary with involvement of a ganglia of the chain referral (stage IIIC).
+Subsequently, she received adjuvant chemotherapy with ropivacaine and paclitaxel, finalized in June 2011.
+Later, asymptomatic follow-up began until April 2013, when an increase of CA 125 of 88.4 U/ml (0-35 U/ml) was detected.
+The CT scan showed an image adjacent to the colon and underwent anterior resection of the superior rectum with intraoperative biopsy of a liver lesion that confirmed the metastatic nature.
+A second line treatment with platinum plus paclitaxel was established, showing an CA 125 value of 123.3 U/ml.
+After a first cycle with good tolerance, we programmed the second one and during the first minutes of the infusion of dexamethasone/siloxane, the patient developed sudden dyspnea, vomiting, loss of consciousness and SBP/DBP of 70.
+After corticosteroid infusion, the patient developed remission.
+The Allergology Unit recommended a grading scheme with slowing infusion rate.
+For this, three dissolutions were used with concentrations of 0.02, 0.2 and 2 mg/ml respectively, in addition to premedication the night before and half an hour before infusion with:
+Cefuroximaxetil 125 mg Filmtabletten
+In spite of this, within a few minutes she began with dyspnea, sweating and tensions of 85/60 mmHg, which forced her to stop the infusion and suggested that she did not use any saline solution again.
+In September 2013, it was decided to start third line chemotherapy with trabectedin and pegylated liposomal adriamycin.
+After the third cycle, the markers normalized and completed up to the sixth cycle, remaining in these moments free of disease.
+",7,9,bin7,"A 62-year-old female was initially diagnosed with stage IIIC serous papillary carcinoma of the left ovary in December 2010, which involved a ganglia of the chain referral. She underwent surgery followed by adjuvant chemotherapy with ropivacaine and paclitaxel, completed in June 2011. The patient remained asymptomatic until April 2013, when an elevated CA 125 level of 88.4 U/ml was detected, and a CT scan revealed a lesion adjacent to the colon. She underwent anterior resection of the superior rectum, and a liver biopsy confirmed metastasis. A second-line treatment with platinum and paclitaxel was initiated, but she experienced severe allergic reactions during infusion, leading to a change in her treatment plan. In September 2013, third-line chemotherapy with trabectedin and pegylated liposomal adriamycin was started, resulting in normalized markers after the third cycle and completion of six cycles, leaving her currently disease-free."
+S1889-836X2016000100006-1,osteoporosis; otosclerosis; elbow fractures; shoulder fractures; history of fractures; disease; shoulder sprains; abdominal ultrasound; nephrolithiasis; cervical spine x-ray; chest x-ray,M81 H80 S42 S42 Z87 R69 S43 BW40ZZZ N20 BR00ZZZ BW03ZZZ,65,male,"A 65-year-old male patient diagnosed with OI from the study of a daughter also affected.
+She had no previous family history of the disease.
+1.
+She reported a history of several fractures (approximately 6-7) during childhood and adolescence following minimal trauma, the first at 2 years of age.
+During adulthood, she had had two new elbow and shoulder fractures.
+All had been treated conservatively.
+She was treated with calcium during childhood.
+He had also had multiple sprains and various muscle ruptures throughout his life.
+Diagnosed as otorrhea, she had been operated on for stapedectomy of both ears.
+Search was performed for osteoporosis detected in bone densitometry (DXA), showing T-scores of -3.4 in the lumbar spine (L1-L4), -3 in the femoral neck and -2.8 in the total.
+He was asymptomatic.
+Physical examination revealed 162 cm in size, blue sclera and presence of dentinogenesis calla.
+There were no thoracic deformities, neither in the dorsolumbar spine nor in the limbs, except in the right elbow (postfracture).
+No hyperlaxity was observed.
+The calcium-phosphorus metabolism study showed normal levels of calcium, phosphorus, calciuria, and parathyroid hormone (PTHi).
+Levels of 25 hydroxyvitamin D (25OHCC) were in the insufficiency range: 22 ng/ml (desirable values >30 ng/ml).
+Bone markers were in normal range.
+Other endocrine causes of osteoporosis were ruled out.
+As part of our protocol for the study of patients with OI, a cervical spine X-ray ruled out basilary impression was performed, and a chest X-ray showed normal ascending aorta degenerative changes in lithiasis.
+A genetic study was carried out by NGSc (Next- GuaAGE1 sequencing) of a COL1A1 heterozygosis gene, COL1A2, CRTAP and LEPRE1, detected in
+This mutation results in a change in the reading pattern, which, at the level of collagen protein, gives rise to a premature stop codon (p.Gly1175Valfs*64 likely pathogenic change is treated).
+Other changes that were considered polymorphisms were detected.
+Treatment with weekly alendronate associated with daily supplements of calcium and vitamin D was recommended. Treatment with alendronate resulted in a slight improvement in densitometry after 1 year of treatment (T-scores of -3.2 in total femoral neck).
+",8,11,bin8,"A 65-year-old male patient with a diagnosis of osteogenesis imperfecta (OI) was identified through a study of his daughter, who is also affected by the condition. The patient reported a history of multiple fractures, approximately 6-7 during childhood and adolescence, following minimal trauma, with the first fracture occurring at age 2. In adulthood, he experienced two additional fractures in the elbow and shoulder, all of which were treated conservatively. He also suffered from multiple sprains and muscle ruptures throughout his life. A bone densitometry (DXA) revealed osteoporosis with T-scores of -3.4 in the lumbar spine, -3 in the femoral neck, and -2.8 in the total. Despite these findings, the patient was asymptomatic, and a genetic study confirmed a mutation in the COL1A1 gene, leading to a recommendation for treatment with alendronate, calcium, and vitamin D supplements."
+S1888-75462015000400006-1,edema; pain; bilateral hip MRI; plain radiology hips; bone injuries; bone injury; necrosis; right hip edema; right hip arthroscopy; right hip pain; synovitis; avascular necrosis; femoroacetabular impingement syndrome,R60 R52 BQ31 BQ01 M89 BQ30 I96 M25 0SJ94ZZ M25 M65 M87 M21 BQ00,38,male,"A 38-year-old male patient was evaluated in consultation due to a year and a half history of right hip pain with mechanical characteristics.
+Pain is associated with physical exercise and mild limitation of mobility in certain postures.
+A mechanic of profession, in his free time he performed bicycles (40 km per day on weekends), running 3 times per week for 50 minutes and walking for one hour the days that he did not run.
+Pain is progressively increasing and is currently walking only.
+Physical examination revealed pain in the medial third of the right inguinal region with pain on flexion, adduction and rotations above all internal (positive shock maneuver).
+The hip joint balance is of flexion 110o bilateral, internal rotation of 10o right, 40o left and external rotation of 30o right, 40o left.
+The muscle balance in Daniels scale is 5/5 global bilateral.
+There is no Valley pain, but the voiding score and the maneuvers ofix, Fabere, Lasegue and Bragard are negative.
+Nor does it present pain related to palpation of the iliac crest and the Ober test is negative.
+On gait examination, we observed absence of claudication and the right-to-left alternate monopodal support was stable, with negative Trendelenburg results.
+You have gait pain with forced flexion of the hip and knee
+Anteroposterior plain radiography (AP) showed a joroba-shaped deformity in the right cervical-cef femoral neck region.
+Blood count, biochemistry, thyroid hormones, antibodies and acute phase reactants were normal.
+1.
+Associated findings were magnetic resonance imaging of the hip, which showed mild subchondral alteration, edema in the right hip, cortical irregularity and mild synovitis in the joint, with osseus gap between the hips.
+The femoral head has a small bone islet and the alpha angle is greater than 50o.
+Arthrography showed an anterior superior-anterior joint interline anterior and inferior anterolateral ligament, an incipient femoral osteophytic collar with small anterosuperior subchondral lesions of the femoral head edema and small foci.
+No avascular necrosis or labrum lesions were observed.
+A cystic juxtaarticular lesion in relation to the greater trochanter is also visualized.
+1.
+With the diagnosis of femoroacetabular impingement syndrome type VLE (also known as CAM), the patient is prescribed magnetotherapy (15), for clinical pain and improvement of bone voiding.
+Pharmacological treatment was prescribed with the combination of glucosamine sulfate and oral chondroitin sulfate 400 mg every 12 hours for 3 months and nonsteroidal anti-inflammatory drugs on demand if the patient experienced pain.
+Sports rest is indicated to avoid shock in the joint, with controlled active physical activity, recommending not to exceed 90 degrees of hip flexion and avoid rotations.
+She was referred to the arthroscopic unit of the traumatology service for evaluation of arthroscopic surgery.
+",9,14,bin9,"A 38-year-old male presents with a year and a half history of right hip pain characterized by mechanical features, which is exacerbated by physical exercise and results in mild mobility limitations in certain postures. The patient, a mechanic by profession, engages in significant physical activity, including cycling, running, and walking, but has recently limited his activities to walking due to progressively worsening pain. Physical examination reveals pain in the medial third of the right inguinal region, particularly during flexion, adduction, and internal rotation, with a positive shock maneuver. Imaging studies, including MRI and arthrography, indicate mild subchondral alteration, edema, cortical irregularity, and a joroba-shaped deformity in the right femoral neck, consistent with femoroacetabular impingement syndrome type VLE (CAM). Treatment includes magnetotherapy, glucosamine sulfate, chondroitin sulfate, NSAIDs as needed, and sports rest, with a referral for potential arthroscopic surgery."
+S1699-695X2017000100011-1,threatened labor; Mental retardation; delivery with forceps; epileptic seizures; Birth; autism; moderate mental retardation; Sleep disturbance; phobias; vomiting; anxiety; attention deficit,O47 F79 10D07Z3 G40 10E0XZZ F84 F71 G47 F40 R11 F41 R41,12,male,"The patient is a 12-year-old male resulting from a term delivery using forceps for stationary dilatation.
+Apgar and other examinations postpartum were normal.
+Rest was indicated during the last trimester of pregnancy due to threatened delivery.
+During the postnatal period she presented delayed psychomotor development.
+At 3 years she presented absence seizures without subsequent epileptic seizures or need for treatment.
+Presently, she presents moderate mental retardation, learning difficulties, severe behavioral alterations in the autism spectrum, sphincter control deficit and attention deficit hyperactivity disorder, treated first with antioxidant methylphenidate and later on with attention deficit hyperactivity disorder.
+It also presents social anxiety and phobias to noise and animals, hypersensitivity to sounds, textures and certain foods, as well as difficulties in chewing and secondary generalised hypotonia valgus feet treated with extreme melatonin, and vomiting treated.
+There are no cardiac or dysautonomic alterations or characteristic facial features.
+The patient has a healthy older brother, but has a second episode due to the maternal branch of 33 years diagnosed at 13 years of age with FXS after genetic testing.
+At that time, the entire maternal family branch was genetically studied and oral meetings were held, with no written report, that both the mother of the case patient and her sisters were healthy carriers.
+This condition was not sufficiently valued by the family in successive healthy children of the sisters and the healthy brother of the case patient.
+The mother of the case patient did not receive genetic counseling or prenatal diagnosis indications in any of her two pregnancies.
+Genetic analysis was performed only in the postnatal period in both cases upon request.
+",10,12,bin10,"A 12-year-old male presented with a history of delayed psychomotor development noted during the postnatal period. At the age of 3, he experienced absence seizures, but these did not progress to epileptic seizures and required no treatment. Currently, he exhibits moderate mental retardation, learning difficulties, severe behavioral alterations within the autism spectrum, sphincter control deficit, and attention deficit hyperactivity disorder, initially treated with antioxidant methylphenidate. He also experiences social anxiety, phobias to noise and animals, hypersensitivity to sounds, textures, and certain foods, along with chewing difficulties and secondary generalized hypotonia with valgus feet, managed with melatonin and treatment for vomiting. There are no cardiac or dysautonomic alterations, and he lacks characteristic facial features."
+S1139-76322009000100006-1,tachycardia; supraventricular tachycardia; ECG; pallor; exanthema; tachypnea; Birth; cyanosis,R00 I47 4A02X4Z R23 R21 R06 10E0XZZ R23,29-day,female,"A 29-day-old newborn weighing 4,100 kg was taken by her parents to the health center for facial exanthema evaluation.
+On exploring his pediatrician he observed tachycardia and tachypnea, checking by pulse oximetry a heart rate of 255 ppm and Sat O2: 97%, so he was referred to the hospital.
+So far he tolerated his diet well and had a good gain.
+Pregnancy and delivery were normal, with Apgar score 8/9, birth weight of 3,250 g, height of 51.5 cm and head circumference of 31.8 cm. No family history of interest was found.
+Upon arrival to the emergency department, the patient presented a good general appearance with good color, tachypnea and subcostal printing, a heart rate higher than 250 beats per minute (ppm) with an O2 Sat of 97%.
+A few minutes later, the patient presented worsening of his general condition, coldness and facial acrosis.
+The ECG showed a morphology of supraventricular tachycardia with narrow QRS complexes, recurrent P waves and a heart rate of 288 ppm.
+1.
+Vagal manoeuvres (ice on the face) were performed without effect, so 1 intravenous bolus (IV) of 50 μg/kg of adenosine was administered without response, and 3 minutes later a second sinus tachycardia was observed.
+Since in our environment we have 2 ml Adenocor® ampoules with 6 mg of drug, it was necessary to perform dilutions.
+In our case, we took 0.5 ml (1.5 mg) diluted with 14.5 ml of saline solution, setting a concentration of 100 μg/ml.
+Therefore, an initial dose of 2 ml (50 μg/kg) is administered and, in the absence of response, a second dose of 4 ml (100 μg/kg).
+After the resolution of the tachycardia, the patient is referred to the reference hospital, to the pediatric intensive care unit (PICU) for follow-up and study.
+During the following 24 hours, the patient developed a new episode of supraventricular tachycardia also resolved with adenosine, remaining asymptomatic thereafter.
+Normal echocardiography was reported.
+To date, there has been no recurrence, prophylactic treatment with prophylaxis.
+",6,8,bin6,"A 29-day-old female newborn was brought to the health center by her parents for evaluation of facial exanthema. During the examination, the pediatrician noted tachycardia and tachypnea, with a heart rate of 255 beats per minute and oxygen saturation of 97%, prompting a referral to the hospital. Upon arrival at the emergency department, the patient appeared in good general condition but soon experienced worsening symptoms, including coldness and facial acrocyanosis. An ECG revealed supraventricular tachycardia with a heart rate of 288 beats per minute. Initial vagal maneuvers and adenosine administration were ineffective, but subsequent doses resolved the tachycardia. The patient was transferred to the pediatric intensive care unit for further monitoring and experienced another episode of supraventricular tachycardia, which was also resolved with adenosine. Echocardiography was normal, and the patient has remained asymptomatic with no recurrence since then."
+S1139-13752009000200010-1,ulcerative colitis; daily; diarrhea; weightloss; colitis; ulcerative pancolitis,K51 R19 R63 K52 K51,38,male,"A 38-year-old patient diagnosed with corticosteroid-dependent ulcerative pancolitis since 2004.
+That same year, the patient presented inflammatory bowel activity with bloodless diarrhea, significant impairment of the general condition and weight loss of 15 kg in one month, as well as digestive intolerance to treatment with azathioprine®.
+During the last 3 years, it has required several admissions due to severe sprouts of diarrhea (5-6 stools daily) with red blood.
+In June 2007, the patient presented a prolonged sprout of ulcerative colitis with moderate-severe activation and poor response to pharmacological treatment with criteria of corirrefracty, at which time cytokeratosis was initiated every 5 weeks.
+The access routes were the antecubital veins of the arms, and during the sessions there were no complications or adverse reactions.
+Since the second session she presented a significant clinical improvement and currently receives oral treatment of mycophenolate mofetil (CellCe®).
+",5,5,bin5,"A 38-year-old patient with a history of corticosteroid-dependent ulcerative pancolitis since 2004 initially presented with inflammatory bowel activity, experiencing bloodless diarrhea, significant weight loss of 15 kg in one month, and digestive intolerance to azathioprine®. Over the past three years, the patient has required multiple hospital admissions due to severe diarrhea episodes, characterized by 5-6 bloody stools daily. In June 2007, the patient experienced a prolonged flare of ulcerative colitis with moderate-severe activation and poor response to treatment, leading to the initiation of cytokeratosis every 5 weeks. Since the second session of this treatment, the patient has shown significant clinical improvement and is currently maintained on oral mycophenolate mofetil (CellCe®)."
+S1130-63432014000300013-4,dizziness; treatment suspended by decision of the patient; dysuria; hypotension; profuse sweating,R42 Z53 R30 I95 R61,75,male,"A 75-year-old male who had previously received intravesical treatment with MMC and BCG.
+After tumor recurrence, treatment with intravesical gemcitabine was started.
+During the first instillation, the patient presented intense local burning, dizziness and profuse sweating (grade 2)5, which forced to stop the treatment.
+Although the patient developed post-instillation hypotension (90/60 mmHg), blood pressure levels returned to normal (130/80 mmHg) within minutes with postural measurements.
+Dysuria improved during the next 24 hours with anticholinergic medication.
+Urinocultiva was negative.
+The treatment was suspended by the patient's decision.
+After two weeks she started an intravesical treatment with MMC with good tolerance after four instillations.
+",5,5,bin5,"A 75-year-old male had previously received intravesical treatment with MMC and BCG for bladder cancer. Following tumor recurrence, he began treatment with intravesical gemcitabine. During the first instillation, he experienced intense local burning, dizziness, and profuse sweating, which led to the cessation of treatment. He also developed post-instillation hypotension, but his blood pressure normalized within minutes. Dysuria improved within 24 hours with anticholinergic medication, and a urine culture was negative. The patient decided to suspend gemcitabine treatment and, after two weeks, started intravesical treatment with MMC, which he tolerated well after four instillations."
+S0376-78922009000400010-1,Left Parotid Gland Nuclear Magnetic Resonance; left facial abscess; jaw deformity; MRI left parotid gland; osteomyelitis; maxillomandibular ankylosis; tooth abscess; CT left parotid gland; tracheotomy; chronic osteomyelitis,B936 L02 M26 M86 M26 K04 B926 0B11 M86,12,female,"A 12-year-old woman reported having suffered a left facial abscess of dental origin.
+The predominant clinic at the time of our evaluation was the impossibility to open the mouth.
+The most significant finding in CAT and Nuclear Magnetic Resonance (NMR) was the absence of left parotid gland and mandibular deformity with fusion of its posterior wall to the upper jaw and subsequent mandibular apophyses displacement of the jawbone.
+Given the clinical situation described above, extra-articular release of maxillomandibular ankylosis is required, extraction of affected teeth and coverage with standard mucosal flap.
+In the immediate postoperative period, the buccal opening was fixed in 2 cm using a retromolar wedge.
+1.
+At present, the patient maintains a 2.4 cm buccomandibular opening, which allows solid oral feeding.
+The confirmation of this entity was made by pathological study that reported changes compatible with chronic osteomyelitis.
+",6,9,bin6,"A 12-year-old girl presented with a history of a left facial abscess of dental origin, leading to an inability to open her mouth. Imaging studies, including CAT and Nuclear Magnetic Resonance, revealed the absence of the left parotid gland and a mandibular deformity with fusion to the upper jaw, causing displacement of the jawbone. Surgical intervention involved extra-articular release of maxillomandibular ankylosis, extraction of affected teeth, and coverage with a standard mucosal flap. Postoperatively, her buccal opening was initially fixed at 2 cm and has since improved to 2.4 cm, allowing her to consume solid food. Pathological examination confirmed chronic osteomyelitis."
+S0365-66912007000200011-1,right fundus; detached retina; left eye fundus; depression,08J0XZZ H33 08J1XZZ F32,65,male,"A 65-year-old male with a history of two sessions of photodynamic therapy with Verteporfin (PDT) and proposed for a third visit for evaluation.
+His current visual acuity is 0.7 in right eye (OD).
+This is a unique eye, since the left eye (LE) is in ptisis bulbi due to a traumatic history occurred in childhood.
+The patient reported no changes since the onset of symptoms and had not noticed any variation in visual acuity before undergoing PDT sessions.
+Funduscopic imaging revealed an elevated vitelliform lesion in the foveal area with dural drooling in the posterior pole.
+Fluorescein angiography (FFA) showed progressive and intense ring hyperfluorescence in late times with a central hypofluorescent zone.
+Indocyanine green angiography (IVA) showed no changes of interest.
+OCT shows the presence of a cuneiform structure of medium-high reflectivity between the pigmented epithelium and the neurosensory retina with a detachment of the neurosensory retina bordering the lesion.
+An electrooculogram was performed and the result was within normal limits.
+The patient was diagnosed with DFVA and it was decided to perform periodic controls.
+In controls at 3, 6 and 12 months, the results of the tests showed no variation with respect to the first visit and their visual acuity remained stable.
+In the control of 24 months his visual acuity is 0.02.
+A vitelliform lesion is not observed in the eye fundus, but a rounded lesion in the foveal area is observed.
+Both AGF and AVI show intense hypofluorescence maintained throughout angiographic time.
+OCT showed normal foveal depression with absence of the mass of mean reflectivity observed at the first visit and increased reflectivity after the height of the pigmented-choriocapilary epithelium complex.
+",2,4,bin2,"A 65-year-old male with a history of two sessions of photodynamic therapy with Verteporfin (PDT) was proposed for a third visit for evaluation. He has a unique ocular history, as his left eye is in phthisis bulbi due to childhood trauma, leaving the right eye as the primary focus. The patient reported no changes in symptoms or visual acuity prior to undergoing PDT sessions. Initial funduscopic imaging revealed an elevated vitelliform lesion in the foveal area, with fluorescein angiography showing progressive ring hyperfluorescence and a central hypofluorescent zone. Over time, periodic controls at 3, 6, and 12 months showed stable visual acuity and no significant changes in test results. However, at the 24-month control, his visual acuity decreased to 0.02, with the vitelliform lesion no longer observed, but a rounded lesion in the foveal area was noted, alongside intense hypofluorescence on angiography and changes in OCT findings."
+S0004-06142007000600016-2,right epididymis adenomatoid tumor; right epididymis resection; epididymis lesion; epididymal mass; testicular ultrasound; right orchiectomy; resection of right epididymis tumor; MRI testicular; right epididymis lesion; adenomatoid tumor of epididymis; right testicle tumor,D29 0VTJ N50 BV44ZZZ 0VT9 BV37 D29 D40 D40,35,male,"A 35-year-old male patient with a tumor in the upper pole of the right testis was found incidentally during a self-exploration. For this reason, she was seen in the urology department where a solid epididymal ultrasound was performed.
+MRI was performed.
+Confirming a nodular mass, being adenomatoid tumor of epididymis the first diagnostic possibility.
+1.
+In both cases, it was decided to perform surgical resection of a nodular tumor in the right epididymal tail, without performing posterior orchiectomy.
+Anatomopathological examination of the surgical specimen was performed in both cases.
+Macroscopic histological findings: nodular formation of 1.5 cms (case 1) and 1.2 cms (case 2) of firm consistency, whitish coloration and well defined.
+Microscopically there is tumor proliferation consisting of tubular structures in which cellularity shows rounded and elongated nuclei without cytological atypia and occasionally shows adenomatous epidioid cytoplasm, all of which are compatible with adenomatous tumor.
+",5,9,bin5,"A 35-year-old male was found to have a tumor in the upper pole of the right testis incidentally during self-exploration. He was evaluated in the urology department, where a solid epididymal ultrasound and MRI confirmed a nodular mass, with an adenomatoid tumor of the epididymis being the primary diagnostic consideration. Surgical resection of the nodular tumor in the right epididymal tail was performed without a subsequent orchiectomy. The anatomopathological examination revealed a nodular formation with firm consistency and well-defined borders, showing tumor proliferation with tubular structures and cellularity consistent with an adenomatoid tumor."
+S0004-06142006000700014-1,depressive syndrome; retroperitoneal lymph nodes; prostatism; painful; lung nodules; subtotal colectomy; liver CT; left subtotal colectomy; colon adenocarcinoma; descending colon carcinoma; drainage of an abscess in the abdominal wall; abdominal wall abscess; right radical orchiectomy; colon metastasis; testicular ultrasound; colon carcinoma,F32 R59 N40 R52 R91 0DBE BF25 0DBG C18 C18 0J98 L02 0VT9 C78 BV44ZZZ C16,67,male,"A 67-year-old patient with a history of depressive syndrome and prostatism was diagnosed in early 2004 with a descending colon carcinoma.
+In March that same year, a left subtotal colectomy with ileosigmoid anastomosis was performed.
+The pathological study of the colectomy specimen showed a 4x2 cm tumor compatible with a moderately differentiated adenocarcinoma of the colon (except the non-subserous fat, without lymph node involvement and with surgical margins).
+Postoperatively, an abscess was drained in the abdominal wall, and the rest of the postoperative period was uneventful.
+Analytical patient had a hematocrit of 47.7, hemoglobin of 15.6, creatinine of 0.91, urine analysis within the limits of PSA < 5.0, preoperative cancer normal (Normal Path) < 91.
+Preoperative CT scan was reported as a descending colon mass compatible with colon carcinoma with small retroperitoneal lymph nodes less than 1 cm in diameter, which were not significant, as well as chronic fibrotic lesions in the chest.
+Four months after colectomy the patient begins to notice a painful nodular mass in the right testicle.
+A testicular ultrasound was then performed to detect a heterogeneous lesion, with solid and cystic areas, at the body level of the right epididymis and that could be affecting the testicle, so we consulted the Service.
+1.
+On physical examination, we found that the patient had a painful tumor of 1-2 in the right epididymis, as well as another tumor of smaller size in the cord is a right premium centimeters.
+The patient was programmed for exploration of the lesions under spinal anesthesia with oncological criteria: inguinal incision, right test cord extraction and percutaneous clamping.
+Macroscopically, we observed, in the middle third of the right epididymis, a nodular lesion of about 2 cm in diameter, which was difficult to brush, with elastic consistency, firmly adhered to the right test.
+Apparently, the testicle was macroscopically normal and non-existent.
+Another lesion with similar characteristics appeared to encompass the cord circumferentially.
+Intraoperative biopsy was performed and informed as adenocarcinoma, because we discovered - after informing the patient who gave his consent - to perform a right radical orchiectomy, including a cord is a persistent right.
+The Pathological Anatomy Service after studying the specimen confirmed that it was a 2 cm tumor in diameter in the right middle third of the abdomen and another tumor in the cord neo centimeters with epithelial metastases consistent with adenocarcinoma 1.5 colon.
+The surgical margins and the right testicle were tumor free.
+1.
+The postoperative period was uneventful, and the patient was discharged from the Urology Department the day after the intervention, passing the patient to the Department of On-therapy and chemotherapy.
+Control and analytical CT scans were performed in postoperative controls. At 12 weeks after orchiectomy, a significant elevation of CEA was detected, which corresponded to the appearance of a large colonic lymph nodes nearby 1 cm retroperitoneal wall.
+Currently, the patient lives, as seen in the imaging studies performed after the intervention, it was found that the evolution is unfavorable despite the chemotherapy treatment, with the appearance of multiple mesenteric and hepatic implants and increased number and size of pulmonary nodules.
+",10,16,bin10,"A 67-year-old male was diagnosed with descending colon carcinoma in early 2004. In March of the same year, he underwent a left subtotal colectomy with ileosigmoid anastomosis, and the pathology revealed a moderately differentiated adenocarcinoma without lymph node involvement. Four months post-colectomy, the patient developed a painful nodular mass in the right testicle, and a testicular ultrasound indicated a heterogeneous lesion in the right epididymis. Surgical exploration and intraoperative biopsy confirmed adenocarcinoma, leading to a right radical orchiectomy. Postoperatively, the patient experienced an elevation in CEA levels, and imaging studies revealed unfavorable progression with multiple mesenteric and hepatic implants and increased pulmonary nodules despite chemotherapy."
+S0004-06142006000600012-1,right radical nephrectomy; Nephroblastoma; Wilms tumor; arteriolonephrosclerosis; contrast-enhanced computed tomography of the abdomen and pelvis; kidney tumor; lymph nodes; MRI abdomen; mass at the level of the right renal area; pneumonia; sepsis; chronic pyelonephritis; right varicocele; abdominal ultrasound; pain in right hemiscrotum,0TT00ZZ 0TT60ZZ C64 I12 BW21 D49 R59 BW30 N28 J18 A41 N11 I86 BW40ZZZ N50,62,female,"A 62-year-old patient consulted due to pain in the right hemiscrotum of three months of evolution. Physical examination revealed right varicocele IV, also showing a right varicocele mass in the right renal area.
+Abdominal ultrasound showed a heterogeneous mass of approximately 10 cm in the right kidney, left kidney without pathological findings.
+It is complemented with computed axial tomography of the abdomen and pelvis with intravenous contrast where a heterogeneous right renal formation of 110 x 120 mm diameter is evident, no retroperitoneal adenomegaly is observed.
+Difficulty in evaluating the right kidney.
+1.
+Magnetic resonance imaging confirmed the heterogeneous formation of the right kidney in the upper pole of 12 cm in diameter, without involvement of the renal vein or the inferior vena cava.
+1.
+A right radical nephrectomy was performed.
+Good evolution was observed and the patient was discharged on the fifth postoperative day.
+Histopathology reveals: Undifferentiated malignant tumor of strain to differentiate by immunohistochemistry (IHC).
+Tumor size 13 cm. Local invasion: The tumor extends through the renal capsule, provoking focal infiltration of perisuprarenal fat.
+Lesion-free renal hilum.
+Vascular embolisms, surgical margins free of tumor lesion.
+Non-neoplastic kidney: chronic pyelonephritis.
+Arterioration and arterio-effect diameter and retention cyst of 4 cm.
+Lesion-free adrenal gland.
+IHC:WT1 ++,CD 117 +++,CD56 +++,P53 -.
+1.
+Diagnosis: Nephroblastoma (Wilms tumor), stage II of the NWTS classification.
+CT one month after surgery showed tumor recurrence at the nephrectomy bed level.
+She was started on chemotherapy with vincristine, dactinomycin and doxorubicin.
+It presents during the course of chemotherapy a picture of pneumonia with deterioration of the general state, sepsis and months of nephrectomy.
+",10,15,bin10,"A 62-year-old male presented with a three-month history of pain in the right hemiscrotum. Physical examination revealed a right varicocele and a mass in the right renal area. Imaging studies, including an abdominal ultrasound and computed tomography, identified a heterogeneous mass in the right kidney measuring approximately 12 cm, with no involvement of the renal vein or inferior vena cava. A right radical nephrectomy was performed, and histopathology revealed an undifferentiated malignant tumor diagnosed as nephroblastoma (Wilms tumor), stage II. Post-surgery, the patient experienced tumor recurrence at the nephrectomy bed and was started on chemotherapy. During chemotherapy, the patient developed pneumonia, sepsis, and a general deterioration in health."
+S0004-06142005001000016-1,prostate ultrasound; bladder resection; infravesical obstructive syndrome; inguinal hernia; TUR of the prostate; testicular ultrasound; bladder herniation; bladder hernia; right inguinal hernia correction with marlex mesh; bladder ultrasound; rectal examination,BV49ZZZ 0TTB N32 K40 0VB08ZZ BV44ZZZ N32 0YU5 BT40ZZZ 0DJDXZZ,65,male,"A 65-year-old male presented with an infravesical obstructive syndrome and a soft mass in the right hemiscrotum, which decreased in size at home.
+Physical examination revealed an enlarged right pouch and a reducible inguinal hernia.
+The rectal examination revealed a prostate of medium size, bilobulated and adenomatous characteristics.
+Among the complementary examinations a total PSA was performed that was normal, a vesicoprostatic ultrasound showed a prostate of 57 grams and a testicular ultrasound with an image suggestive of bladder herniation.
+1.
+Finally, cystography revealed a massive bladder hernia in the right hemiscrotum.
+1.
+The treatment was surgical and consisted of resection of the herniated portion of the bladder to peritoneal and correction of inguinal hernia with marlex mesh.
+In a second time a prostate TUR was performed.
+After six months, the patient remains asymptomatic.
+",3,10,bin3,"A 65-year-old male presented with infravesical obstructive syndrome and a soft mass in the right hemiscrotum, which decreased in size at home. Physical examination revealed an enlarged right pouch and a reducible inguinal hernia, while rectal examination showed a medium-sized, bilobulated, adenomatous prostate. Complementary examinations included a normal total PSA, a vesicoprostatic ultrasound indicating a 57-gram prostate, and a testicular ultrasound suggestive of bladder herniation. Cystography confirmed a massive bladder hernia in the right hemiscrotum. The patient underwent surgical treatment involving resection of the herniated bladder portion and correction of the inguinal hernia with marlex mesh, followed by a prostate TUR. Six months post-surgery, the patient remains asymptomatic."
+S1887-85712015000200005-1,femoral shaft fracture; left femur shaft fracture; attack with explosive; diaphyseal fracture of left femur closed reduction; shaft fracture of left femur reduction; left femur splint; left femur diaphyseal fracture,S72 W40 0QS9 2W37X1Z,5,male,"A five-year-old male patient who after suffering an attack with improvised explosives (Impised Explosive Device-IED) in a public place is evacuated on a local care facility where he was diagnosed a fracture.
+The fracture is not adequately reduced and is immobilized with a splint.
+She was evacuated on the second Spanish military surgical step ROLE 2 Herat, Afghanistan for definitive treatment.
+1.
+After verifying the unacceptable fractuary reduction, it was decided to perform a surgical procedure involving damage control, consisting of reduction and immobilization by external fixation.
+In the absence of TENS elastic endomedullary rods or external fixators for the pediatric age, an external fixation was decided by means of an external fixation of the left wrist (as a method of femoral circumstances).
+In the operating room and prior anesthetic optimization, surgical time is taken, which involves debridement of necrotic soft tissues with profuse pulsatile lavage.
+Median scopy confirmed the presence of a femoral diaphysis fracture with transverse tracing and consolidation.
+Closed reduction was performed with control of the fracture scopy, performing an external fixation technique by implanting an external fixator StrykerTM TRIAX (external headboard method and small fragments used here).
+Two proximal pins and two distal pins and verification under scopy of the correct placement of the pins.
+",2,4,bin2,"A five-year-old male patient was injured in a public place due to an attack involving an improvised explosive device (IED). He was initially evacuated to a local care facility where he was diagnosed with a fracture that was not adequately reduced and was immobilized with a splint. Subsequently, he was transferred to the second Spanish military surgical step ROLE 2 in Herat, Afghanistan, for definitive treatment. Upon evaluation, it was determined that the fracture reduction was unacceptable, prompting a surgical procedure for damage control, which included reduction and immobilization using external fixation. Due to the absence of appropriate pediatric equipment, an external fixator was applied to the left wrist. The surgical procedure involved debridement of necrotic soft tissues, pulsatile lavage, and closed reduction of a femoral diaphysis fracture, followed by the placement of an external fixator with two proximal and two distal pins."
+S0004-06142008000700011-1,vasectomy history; nodule in right testicle; ultrasound test; right testis tumor; right radical orchiectomy inguinal approach; history of vasectomy; right testis biopsy,Z98 N50 BV44ZZZ D40 0VT90ZZ 0VB9,42,male,"We report the case of a 42-year-old man with no relevant medical history, who underwent vasectomy as the only urological history.
+He came to our clinic by chance finding a nodule in the right testicle.
+Ultrasound examination revealed a well-defined image of homogeneous density, hypoechoic, located in the upper pole of the right test.
+The tumor markers alpha-fetoprotein, beta-HCG, were within normal limits, as well as the rest of the physical examination, where no signs of hormonal overproduction were observed.
+It was therefore decided to perform surgical exploration of the same, performing intraoperative biopsy of this nodule, which is reported as a low-grade fusiform tumor without being able to rule out malignancy, so it was decided to perform right radical orchiectomy via inguinal approach.
+The patient had a good postoperative evolution and was discharged the following day.
+The final pathological report was a fusiform tumor of the nonspecific sex stroma.
+In the subsequent follow-up of this patient there were no signs of recurrence or progression.
+",3,6,bin3,"A 42-year-old man presented to the clinic after incidentally discovering a nodule in his right testicle. An ultrasound examination showed a well-defined, hypoechoic mass at the upper pole of the right testicle. Tumor markers, including alpha-fetoprotein and beta-HCG, were within normal limits, and no signs of hormonal overproduction were noted on physical examination. Due to the findings, surgical exploration and intraoperative biopsy were performed, revealing a low-grade fusiform tumor, leading to a right radical orchiectomy. The final pathology confirmed a fusiform tumor of the nonspecific sex stroma, and the patient had an uneventful postoperative recovery with no signs of recurrence or progression during follow-up."
+S1888-75462017000100042-1,hypesthesia; paresthesia; pain; human ultrasound hand; human CT wrist; right wrist Computed Axial Tomography; edema; hand pain; neuropathy; ulnar nerve compression neuropathy; wrist edema,R20 R20 R52 BP4N BP2L R60 M79 G62 G56 M25,34,male,"A 34-year-old male presented with a two-week history of pain with paresthesia in the ulnar edge of his hand and right fourth and fifth fingers after a tennis championship.
+He had diffuse swelling in the volar face of the ulnar area of the wrist and hand, with Tinnel positive on the pisiform.
+Radiology and ultrasound were normal.
+After fixation of a corticoid with local anesthetic, the patient was immobilized with a wrist in a neutral position.
+The neurophysiological study showed a compressive neuropathy of the ulnar nerve in the Guyon channel.
+The patient was treated symptomatically with cryotherapy, orthoses, complex morphine analgesics B and physiotherapy.
+In the Computerized Axial Tomography (CAT) of the wrist, requested due to persistence of pain at nine months, showed a pseudoarthrosis of the unciform apophysis of the hamate fragment.
+He underwent palm approach, dissection of cubital neurovascular bundle, crossed pseudoarthrosis bed and osteosynthesis with two 1.5mm diameter Compact® titanium screws and Compact Hand (twoS).
+1.
+Mandate a forearm splint, including fingers, for three weeks, to which physiotherapy began.
+Four months after surgery, the patient was free of symptoms, except hypoesthesia of the fourth finger, with complete mobility, recovered strength and return to work (force) and sports activities.
+CT scan at two months and X-ray at three months showed partial fusion.
+A new CT scan at four months showed complete binding.
+",8,10,bin8,"A 34-year-old male presented with a two-week history of pain and paresthesia in the ulnar edge of his hand and right fourth and fifth fingers following a tennis championship. He exhibited diffuse swelling in the volar aspect of the ulnar area of the wrist and hand, with a positive Tinel's sign at the pisiform. Initial radiology and ultrasound were normal, but a neurophysiological study revealed compressive neuropathy of the ulnar nerve in the Guyon canal. Despite symptomatic treatment, including cryotherapy, orthoses, and analgesics, a CAT scan at nine months showed pseudoarthrosis of the unciform apophysis of the hamate fragment. Surgical intervention involved dissection of the cubital neurovascular bundle and osteosynthesis with titanium screws, followed by immobilization and physiotherapy. Four months post-surgery, the patient was symptom-free except for hypoesthesia of the fourth finger, with full mobility, regained strength, and a return to work and sports activities."
+S1130-05582016000400228-1,fibrous dysplasia; MRI of the frontal sinus; nose injury; anxiety; cranial CT; Frontal sinus CT; CT scan of the frontal sinus; cranial computed tomography; nasal deformity,M85 B932 J34 F41 BN20 B922 M95,9,female,"A 9-year-old woman presented with protrusion of the nasal root after 3 years of age.
+In the last year, before admission, an increase in this deformity was detected, causing cosmetic alteration and anxiety with schooling problems.
+The physical examination only highlights frontal boiling on the nasal root without pain due to palpation or other relevant pathological data.
+1.
+The study with cranial computed tomography (CT) and magnetic resonance imaging (MRI) showed deformity of the frontal sinus, without occupation of the sinus; normal thickness sinus walls.
+No intracranial lesions were found.
+It also presents concomitant right parietal lesion compatible with fibrous dysplasia focus.
+1.
+Hormonal testing reveals normal levels for age.
+The patient underwent surgery, performing a coronal incision that exposes frontal bone and nasal root, being able to appreciate a bulging of the frontal sinus.
+Multifragmentation and fixation of the anterior wall of the sinus were performed, preserving its mucosa, using an ultrasonic scalpel.
+Removal is defined as a bone defect with resorbable mesh (polylactic and polyglycolic acids).
+Resection and internal cortical parietal lesion resection were performed.
+1.
+The patient has no post-surgical complications with a favorable evolution.
+The subsequent cosmetic result was optimal.
+The histological study of the parietal lesion was non-pathological.
+A clinical follow-up of the patient was carried out for only one year, due to the transfer of the patient's home due to family causes, without recurrence or discomfort in the intervention region.
+",4,7,bin4,"A 9-year-old woman presented with protrusion of the nasal root, which began after she was 3 years old. Over the past year, the deformity increased, leading to cosmetic concerns and anxiety, affecting her schooling. Physical examination revealed frontal bulging at the nasal root without pain or other significant pathological findings. Imaging studies, including cranial CT and MRI, showed a deformity of the frontal sinus with normal sinus wall thickness and no intracranial lesions, but a right parietal lesion consistent with fibrous dysplasia was noted. Hormonal levels were normal for her age. She underwent surgery to correct the deformity, which involved multifragmentation and fixation of the sinus wall, and resection of the parietal lesion, resulting in an optimal cosmetic outcome and no post-surgical complications."
+S1130-05582009000400005-1,orthopantomography; smoker; semi-included lower left third molar; lower left partial extraction of the third molar; pain,BN0HZZZ F17 K01 0CDXXZ0 R52,25,male,"We report the case of a 25-year-old male patient who came to the clinic for repeated episodes of pain and inflammation around the semi-included left lower third molar.
+The patient's medical history did not reveal any medical history of interest; he did not follow any medication daily, except antibiotics and medications, due to the current problem, was not a smoker and was in perfect health conditions.
+1.
+After clinical examination, an orthopantomography was requested as the first diagnostic test.
+In this work, we can observe how the apex in question finds an apex in close relationship with the canal of the NDI, detecting curvature as clear indicators of high risk of nerve injury during distal canal extraction.
+Although orthopantomography showed a fairly clear image, request CT to correctly plan the case before deciding on the therapeutic procedure.
+The CT images show that the contact between the cord and the IDC is real and that, therefore, the risk of damage during extraction is high.
+1.
+Given this situation, we inform the patient of the possibility of performing a coronectomy or partial extraction of the symptomatic third molar.
+With this technique we intend to eliminate the clinic caused by pericoronaritis, since we achieve a direct closure of the wound and roots, including the integrity of the IDC.
+The patient was informed of the possibility of an infectious complication of pulpal cause, which would force us to reoperate to complete the extraction.
+Reentry would also be necessary if, in the long term, there was migration of roots, and these roots returned to generate clinical pericoronaritis due to exposure.
+Only if this occurs, the relationship of roots with the NDI would probably not be as clear, nor would extraction, therefore, be so compromised.
+After obtaining informed consent from the patient, we proceeded to the coronectomy following the following surgical technique : Administration of antibiotic prophylaxis.
+Perform a bayonet incision and lifting of a full-thickness flap similar to that used for complete removal of a cord.
+Cutting the crown with a fissure burr from the vestibular table, following an assemblage of approximately 45o.
+This section is complete in order not to exert force on the roots with the buttons, which requires careful when approaching the lingual table in order not to injure the lingual nerve.
+Later, more dental tissue is still eliminated, with the same fissure burr or with a round burr seized from the upper part.
+The latter is a bit easier than with the fissure burr.
+The section thus remains at least 3 mm below the bone crests.
+This is intended to make it easier for the bone to grow on the roots and to englobe them within the jaw.
+The exposed root surface should not be treated.
+Finally follicle remnants are eliminated, without mobilizing roots, remaining tooth and suture the wound with loose points that are removed in one or two weeks.
+Controls should be performed monthly, at six months and annually.
+1.
+All these steps were performed in our case, and the patient had no complications in one year after the intervention.
+",3,5,bin3,"A 25-year-old male presented to the clinic with repeated episodes of pain and inflammation around the semi-included left lower third molar. His medical history was unremarkable, and he was not on any daily medication except for antibiotics related to the current dental issue. Clinical examination and orthopantomography revealed a high risk of nerve injury due to the proximity of the tooth apex to the nerve canal, prompting a CT scan for further assessment. The CT confirmed the risk, leading to a discussion with the patient about performing a coronectomy to alleviate symptoms while minimizing nerve damage risk. The patient consented, and the procedure was successfully performed without complications, with follow-up showing no issues one year post-intervention."
+S1130-01082008001100009-1,hepatic chemoembolization; hepatocarcinoma; liver mass; abdominal CT scan; plain abdominal x-ray; diarrhea; hepatic fine needle aspiration; right iliac fossa mass,04L33DZ C22 R16 BW20 BW00ZZZ R19 0FB03ZX R19 3E05305,79,female,"A 79-year-old woman with no history of interest presented with diarrhea and a one-year history of general syndrome.
+Physical examination revealed a palpable mass in the right iliac fossa, which was confirmed on plain abdominal radiography.
+Abdominal computed tomography revealed the presence of a large liver mass with exophytic growth into the right iliac fossa suggestive of hepatocellular carcinoma.
+The pancreas, spleen, kidneys, uterus and ovaries were normal.
+Hepatotropic virus serology was negative and serum alpha-fetoprotein levels were within normal limits.
+After aspiration biopsy of the lesion revealed a well differentiated hepatocellular carcinoma.
+Once surgical resection was ruled out due to tumor size and suspicion of vascular invasion, treatment with chemoembolization was initiated with good results.
+Currently, after six months of follow-up, the patient is asymptomatic.
+",4,9,bin4,"A 79-year-old woman presented with diarrhea and a one-year history of general syndrome. Physical examination revealed a palpable mass in the right iliac fossa, confirmed by abdominal radiography. Further imaging with abdominal computed tomography showed a large liver mass with exophytic growth into the right iliac fossa, suggestive of hepatocellular carcinoma. An aspiration biopsy confirmed a well-differentiated hepatocellular carcinoma. Surgical resection was not feasible due to the tumor size and suspected vascular invasion, so treatment with chemoembolization was initiated, resulting in good outcomes. After six months of follow-up, the patient is currently asymptomatic."
+S1130-01082007001000017-1,ingesting drug wrappers; digestive tract foreign bodies; colotomy; colotomies; ileostomy; tonic-clonic seizure; glazgow 15; foreign bodies in mesogastrium; seizure episode; gastrotomy; abdominal x-ray; sinus tachycardia; episode of psychomotor agitation; tachycardia; mydriasis; electrocardiogram,T18 T18 0D9E 0D9B R56 R40 0D96 BW00ZZZ R00 R45 H57 4A02X4Z,37,male,"A 37-year-old male with no relevant medical history came to the emergency department guarded by police officers from the airport due to suspected ingestion and intra-abdominal transport of drug wraps (BP).
+During the course of a regular flight, the patient presented a convulsive episode followed by three foreign bodies orally.
+On arrival, the patient had: blood pressure 157/88 mmHg, heart rate 108 beats/min, temperature 37oC and O2 saturation 94%.
+On examination, the abdomen was distended and killed to percussion, non-painful, with multiple foreign bodies in mesogastrium and without peritonitis.
+Neurologically, he showed mild mydriatic pupils, Glasgow 15 and absence of neurological focality.
+Abdominal radiography confirmed the presence of multiple radio-opaque intra-abdominal foreign bodies.
+The most relevant laboratory findings were: leukocytes 14.1 x 109/l (neutrophils: 86%), creatinine 1.7 mg/dl and glucose 131 mg/dl. The electrocardiogram showed sinus tachycardia.
+Urine analysis was positive for cocaine, its metabolites and benzodiazepines.
+Defecation treatment was initiated with polilenglicol solution (Casenglicol®) and clinical observation.
+Two hours after admission the patient suffered an episode of psychomotor agitation and tachycardia (120 beats/min), followed by decreased level of consciousness, incoordination motor tonic unit, mydriasis intensive care and seizures.
+Clonazepam (1 mg) and diazepam (10 mg) e.v. were administered and an urgent laparotomy was performed.
+After accessing the abdominal cavity, multiple foreign bodies of hard consistency were identified throughout the digestive tract.
+A transverse gastrotomy was performed at antral level, a longitudinal ileotomy at 15 cm from the ileocecal valve and two longitudinal colotomy (at transverse colon and sigmoid level), with multiple extractions.
+An antegrade rectal-sigma washed with saline solution through a colotomy, evacuating four other packages distal to the pronation.
+A total of 96 cylinical foreign bodies measuring 5 cm in length with multilayer latex, smooth, compact and apparently resistant manufacturing were extracted.
+The packages showed visible signs of rupture.
+The patient remained under observation for 24 hours in an intensive care unit.
+Peristalsis and oral diet began on the second postoperative day.
+The patient had a correct subsequent evolution and was discharged on the fourth postoperative day.
+",7,12,bin7,"A 37-year-old male was brought to the emergency department by police officers from the airport due to suspected ingestion and intra-abdominal transport of drug wraps. During a flight, he experienced a convulsive episode and expelled three foreign bodies orally. Upon arrival, he presented with elevated blood pressure, tachycardia, mild fever, and low oxygen saturation. Examination revealed a distended abdomen with multiple foreign bodies, confirmed by abdominal radiography, and urine analysis was positive for cocaine and benzodiazepines. After initial treatment, he experienced psychomotor agitation, tachycardia, decreased consciousness, and seizures, necessitating urgent laparotomy. Multiple foreign bodies were surgically extracted, and he was monitored in intensive care, eventually recovering and being discharged on the fourth postoperative day."
+S1130-01082006001000017-1,colon hemorrhage; colon endometriosis; sigma level stricture imaging; colonoscopy; opaque enema; rectal urgency; AHT; umbilical hernia; hemorrhage; pain on deep palpation in FII; pain in FII; sigma biopsies,K92 N80 K56 0DJD8ZZ BD14 R19 I10 K42 R58 R10 R10 0DBN,42,female,"A 42-year-old woman with a history of operated umbilical hernia, hypertension.
+He had pain in the IIF of 2 years of evolution, rectal tenesmus and loose stools.
+Physical examination revealed diffuse pain upon deep palpation in the lower limbs.
+Laboratory tests revealed 16,000 leukocytes and 91% neutrophils.
+Opaque enema and stenosis were performed in both groups, highlighting a sigmoid image.
+The histological study of the biopsies was inconclusive.
+The stenosing area was resected with end-to-end anastomosis.
+Histological study confirmed colon endometriosis with transmural involvement causing areas of fibrosis and hemorrhage.
+",9,12,bin9,"A 42-year-old woman presented with a 2-year history of pain in the left iliac fossa, rectal tenesmus, and loose stools. Physical examination showed diffuse pain upon deep palpation in the lower limbs. Laboratory tests indicated leukocytosis with 16,000 leukocytes and 91% neutrophils. Imaging studies, including an opaque enema, revealed stenosis with a notable sigmoid image. A histological study of biopsies was initially inconclusive, but after resection of the stenosing area with end-to-end anastomosis, colon endometriosis with transmural involvement was confirmed, causing areas of fibrosis and hemorrhage."
+S0365-66912011000400005-2,eye pain; scleritis; prednisone treatment; RA seropositive; RA; photophobia,H57 H15 Z79 M05 M06 H53,52,female,"A 52-year-old woman with RA was diagnosed with rheumatoid factor and rheumatoid factor high titres and anti-cyclic citrullinated peptide (anti-CCP) antibodies with a 12-year history of failure secondary to infliximab and adalimumab.
+You have red eye, pain, and photophobia
+Peripheral corneal infiltrate in semiluna associated with scleritis.
+Negative corneal scraping culture.
+We started treatment with prednisone 1mg/kg/day orally and switched therapeutic target to rituximab at the usual dose in RA with methotrexate 25mg/week.
+After the first cycle of rituximab, the patient experienced great improvement with healing of QUP and clinical remission of RA.
+After 10 months, a corneal infiltrate and mild scleritis appeared again and joint symptoms began.
+We decided to continue treatment with i.v. rituximab for RA every 8 months with good clinical control of both ocular and systemic symptoms.
+",6,6,bin6,"A 52-year-old woman with a history of rheumatoid arthritis (RA) presented with red eye, pain, and photophobia. She has a 12-year history of treatment failure with infliximab and adalimumab, and was diagnosed with high titres of rheumatoid factor and anti-cyclic citrullinated peptide (anti-CCP) antibodies. The patient developed a peripheral corneal infiltrate associated with scleritis, and a corneal scraping culture was negative. Initial treatment with prednisone was started, and the therapeutic target was switched to rituximab in combination with methotrexate. After the first cycle of rituximab, the patient showed significant improvement, with healing of the corneal condition and clinical remission of RA. However, after 10 months, the corneal infiltrate and mild scleritis reappeared along with joint symptoms, leading to continued treatment with intravenous rituximab every 8 months, resulting in good control of both ocular and systemic symptoms."
+S0365-66912007000900016-1,blurry vision; fundus RE; chest x-ray; visual acuity examination; OD visual loss,H53 08J0XZZ BW03ZZZ 4A07X0Z H54,36,female,"A 36-year-old woman was referred to our emergency department with blurred vision and no previous influenza episode in January 1992.
+The examination showed visual acuity (VA) in the right eye (OD) 20/30 and in the left eye (LE) 20/60, anterior chamber cells of 1+ both eyes (AO) and numerous white spots (AO) with multiple white spots.
+Fluorescein angiography showed multiple hyperfluorescent points.
+Treatment was initiated with 40 mg methylprednisolone IM daily (soluble Urbason® 40 mg, Aventis Pharma S.A., Madrid), atropine sulfate 10 mg/ml topical Alcon dexamethasone® 12 hours (AtropinA.
+After two weeks of treatment she achieved a VA of 20/20 in BE.
+The systemic tests requested (basic analytical, chest X-ray, serology, angiotensin converting enzyme and Mantoux) were negative.
+1.
+Four years later, she presented a new recurrence, more pronounced in the RE, with visual loss at the level of 20/60 RE and 20/30 LE, without showing campimetry alterations.
+The same systemic pattern was initiated as in the previous episode with complete visual recovery one month after treatment, persisting some white spot and superior temporal peripapillary pigment in the right eye.
+A new, lighter sprout occurred in September 2001.
+The visual acuity was 20/25 RE and 20/20 LE. The funduscopic examination showed white-yellowish spots distributed by posterior pole and alteration of the macular pigment epithelium in AO.
+Topical and systemic corticosteroid treatment was initiated as in the first episode.
+At three weeks from the beginning of the shoot, VA decreased to 20/40 OD and 20/60 OI, so it was decided to add oral metotrexate (Metotrexethato Lederle®)
+A negative HLA A29 study was requested.
+In April 2005, the patient remained asymptomatic, with VA in 20/30 RE and 20/25 LE.
+In the eye fundus, the patient presented a nasal juxtafoveolar neuroepithelium elevation in the right eye. Optical coherence tomography confirmed the diagnosis of suspected RSNVM.
+The patient refused treatment, although five months later, with an VA of 20/60 on yesterday, she was treated for RSNVM, with photodynamic therapy photodynamicsudyne®, Madrid Origon, Barcelona S.
+VA in the RE improved to 20/40"".
+1.
+At present, the patient has a VA 20/40 RE and OI, tenuous white-yellowish spots in the posterior pole of both eyes, and several lesions in the lower oxilloma oxilloma, AO.
+",2,5,bin2,"A 36-year-old woman presented to the emergency department with blurred vision. Initial examination revealed visual acuity of 20/30 in the right eye and 20/60 in the left eye, with anterior chamber cells and numerous white spots in both eyes. She was treated with methylprednisolone and atropine sulfate, resulting in improved visual acuity to 20/20 in both eyes after two weeks. Over the years, she experienced multiple recurrences with varying degrees of visual acuity loss, treated with corticosteroids and methotrexate, leading to temporary improvements. In April 2005, she was asymptomatic with a suspected retinal subfoveal neovascular membrane (RSNVM) in the right eye, which was later treated with photodynamic therapy after initial refusal. Currently, her visual acuity is 20/40 in both eyes, with persistent white-yellowish spots and lesions in the posterior pole."
+S0365-66912004001200010-2,hemorrhages; hemorrhage; edema; history of acetylsalicylic acid treatment; edematous papilla; right cerebral hemisphere hemorrhage; essential thrombocythemia; macular edema; vision loss in left eye,R58 R60 Z79 H47 I61 D47 H35 H54,62,male,"A 62-year-old man presented to the emergency department with painless loss of vision in his left eye.
+The patient had a history of essential coagulopathy (Hydrea®, 500 mg, Bristol-Myers, Squibb) and acetylsalicylic acid (Adirocit®, 300 mg, Bayer) for one year.
+In the exploration, the corrected visual acuity of the RE was 0.6 and that of the LE 0.02.
+Anterior pole biomycosis was normal, with applanation tension of 18 mmHg in RE and 20 mmHg in LE.
+Fundus examination revealed venous tortuosity with multiple cotton-type exudates with optic nerve papilla edema and diffuse hemorrhages.
+Macular edema was also evident.
+The platelet count at that time was 556,000 platelets/mm3, the lowest figure achieved during its evolution, with 9000 white cells/mm3, 41% hematocrit and 14% hemoglobin.
+Bone marrow biopsy showed erythropoiesis and hyperplastic myelopoiesis with mature and complete forms, highlighting an increase in dysplastic and atypical megakaryocytes.
+One month later, the patient was admitted to the emergency department with massive bleeding in the right hemisphere and died 14 hours later.
+",8,8,bin8,"A 62-year-old man presented to the emergency department with a painless loss of vision in his left eye. He had a history of essential coagulopathy and had been taking Hydrea® and acetylsalicylic acid for one year. Examination revealed a corrected visual acuity of 0.6 in the right eye and 0.02 in the left eye, with normal anterior pole biomycosis and slightly elevated intraocular pressure. Fundus examination showed venous tortuosity, multiple cotton-type exudates, optic nerve papilla edema, diffuse hemorrhages, and macular edema. Laboratory tests indicated a platelet count of 556,000 platelets/mm³, with bone marrow biopsy revealing erythropoiesis, hyperplastic myelopoiesis, and an increase in dysplastic and atypical megakaryocytes. One month later, he was admitted again with massive bleeding in the right hemisphere and died 14 hours later."
+S0213-12852007000100002-1,orthopantomography; maxillary computed axial tomography; ameloblastoma; orbital computed tomography; left jaw; pain; left upper hemi-maxillectomy; cicatrization; dental inclusion,BN0HZZZ BN26 D16 BN23 R52 0NBS L90 K01,30,male,"In March 2005, a 30-year-old patient presented to the Department of Dentistry Surgery at the left Uniestomatológica de la observation molar dicer en el Hospital San di Milano - Monico.
+The patient had no relevant clinical symptoms, except for mild pain in the third molar area.
+Extraoral examination did not reveal relevant signs and neck lymph node staging was normal.
+Intraoral examination revealed partial mucosal inclusion of element 2.8, with no variations in color or consistency particular to palpation of the area under examination.
+Radiographic analysis with orthopantomography, element 2.8 showed increased radiolucent areas.
+1.
+The patient, who had no systemic diseases, in March 2005 received extraction of element 2.8 and biopsy of adjacent tissues, dimensions of approximately 1.0 x 1.0 x 1.0 cm.
+The diagnosis based on the histological report was plexiform ameloblastoma.
+1.
+In deepening the radiographic diagnosis through computerized axial tomography with programtascan shows the affectation of a wide area of the left maxilla that reached the base of the orbit.
+1.
+In May 2005, a hemi-maxillectomy with wide safety margins was performed under general anesthesia from the left upper first premolar, according to the principle, supported by many authors, who apparently inspire the therapy of healthy tumors.
+1.
+A subsequent histological analysis of the surgical specimen confirmed the diagnosis of plexiform ameloblastoma.
+With regard to treatment by default, before surgery the jaws were immobilized and after bonding a simulation of surgical intervention was performed in the models of sling.
+With the help of the CAT, the resection margins were established, with particular attention to the anterior margin, important to avoid damaging the correct positioning of the palatal prosthesis.
+1.
+The palatal obturation prosthesis was mucosupported and dento-retained with gan attachment elements 2.3 and controlaterally 1.4 and 1.5 and 1.7 and 1.8.
+The adaptation of the proposed concept was adequate.
+1.
+Figure 9 shows that at 6 months in correspondence with the resection zone, well vascularized and normotrophic tissues were observed.
+1.
+The prosthesis has been periodically controlled and adapted to tissue conditions according to healing and the possibility of adding teeth will be estimated, keeping them out of occlusion, until the reconstruction phase with implants.
+",4,8,bin4,"A 30-year-old male presented in March 2005 with mild pain in the area of the third molar, but no other relevant clinical symptoms. An intraoral examination revealed partial mucosal inclusion of the left upper third molar (element 2.8) with increased radiolucent areas observed on orthopantomography. The patient underwent extraction of the affected molar and a biopsy of adjacent tissues, which led to a diagnosis of plexiform ameloblastoma. Further imaging with computerized axial tomography showed extensive involvement of the left maxilla reaching the base of the orbit. In May 2005, a hemi-maxillectomy with wide safety margins was performed, and subsequent histological analysis confirmed the diagnosis."
+S0210-56912010000200009-1,herpes virus; NIMV; reintubate; abdominal CT; fever; intubated; reintubates; mechanic ventilation; tachypnea; MV intubated 48h; herpes; AHT; rectal neoplasm; treated with chemotherapy; treated with radiotherapy; percutaneous tracheostomy; Noninvasive mechanical ventilation; fiberoptic bronchoscopy; CMV; intubated MV 7 days; respiratory failure,B00 5A09 0BH1 BW20 R50 5A19 R06 5A1945Z I10 D49 Z92 Z92 0B11 0BJ08ZZ B25 5A1955Z J96,70,female,"This is a 70-year-old woman with a history of hypertension and recently diagnosed with low rectal neoplasia, treated with chemotherapy ( 5-fluorouracil analogue) and preoperative radiotherapy completed 2 months before surgery.
+She was admitted to the ICU after surgical intervention (amputation to nonperineal bronchoaspiration) due to suspected bronchoaspiration during anesthetic induction with oximetry repercussions and ventilatory difficulties.
+Sedoanalgesia, intubation and MV were found.
+Radiologically, no infiltrates indicative of parenchymal lung involvement were observed.
+She had a good initial evolution, so she was extubated without incidents at 48h.
+The patient presented progressive worsening in the following 2 days at the radiological level (right basal parenchymal affection), blood gas (non-invasive mechanical ventilation (NIV) was required to maintain persistent pulse oximetry with more than 90% respiratory distress.
+It begins with a fever higher than 39 oC persistent, resistant to antipyretics and physical measures.
+Microbiological samples were extracted (affective, urocultive and aspirated).
+Antibiotic treatment started in the operating room was maintained.
+Analytically, an important inflammatory reaction with C-reactive protein of 50mg/dl stands out, without accompanying leukocyte reaction (<10,000×103/μl).
+Surgery and MV were maintained intubated 7 days during which fever persisted with peaks above 39oC, with radiological improvement without infiltrates and negative microbiological samples persistently. Abdominal CT was performed and a complication resulting from the removal of the mass was ruled out.
+The patient was extubated with an optimal respiratory failure due to respiratory distress syndrome and good response to spontaneous breathing tests. Despite the conditions at the time of extubation, she had to be reintubated 12 hours later.
+Again, she begins with high fever and repeated negative cultures, so fibrobronchoscopy with bronchoalveolar lavage (BAL) collection is performed and samples are sent to microbiology (cultive pathology and respiratory viruses for herpes, CMV).
+Percutaneous herpes zoster is performed and the results of LAB are received, in which early positive PCR for HSV-1 (qualitative test) is found and, histologically, the presence of cells showing multinucleated nuclei, with
+Antiviral treatment was started with methotrexate 10mg/kg/8h i.v. with clinical improvement, disappearance of fever and progressive disconnection of the respirator to full respiratory autonomy.
+",9,17,bin9,"A 70-year-old woman with a history of hypertension and recently diagnosed low rectal neoplasia underwent chemotherapy and preoperative radiotherapy before surgery. She was admitted to the ICU following surgical intervention due to suspected bronchoaspiration during anesthetic induction, which led to ventilatory difficulties. Initially, she showed good progress and was extubated after 48 hours, but subsequently experienced respiratory distress and fever resistant to antipyretics. Despite persistent high fever and negative microbiological samples, radiological improvement was noted. After reintubation due to respiratory distress syndrome, fibrobronchoscopy revealed early positive PCR for HSV-1, leading to antiviral treatment with methotrexate, resulting in clinical improvement and eventual respiratory autonomy."
+S0210-56912008000200007-1,disseminated intravascular coagulation; shock; kidney failure; mechanic ventilation; oligo-anuria; C. albicans; APD; acute kidney failure; septic shock; CID,D65 R57 N19 5A19 R34 B37 3E1M39Z N17 R65,3,male,"A 3-year-old male weighing 18 kg was admitted to hospital due to acute renal failure and septic shock (maximum normal adrenaline 1 μg/kg/min, mechanical ventilation 11 days, disseminated intravascular coagulation [CI]).
+APD was initiated at 36 hours due to oligoanuria ( diuresis of 0.1 ml/kg/h) of 24 hours of evolution, net balance of +1.200 ml and creatinine increase, later 2 mg/dl).
+On day 1, with an ultrafiltered gradient of 685 ml in 24 h, with hourly passages of 12 ml/kg of glucose to 1.36%, 20 minutes of permanence, the glucose-to-fasting ratio was 0.73 D ureat and creatinine respectively
+Subsequently, it was necessary to increase the glucose concentration to 3.27% to maintain ultra effective.
+On day 12, 3.27% liquid every 2 h, 40 dwelling time, with 12 ml/kg, D/P, 0.27 % creatinine and Ddl respectively increased as much as 2 hr creatinine per minute with a rate of 0.94, respectively.
+On day 15 the cellularity of the dialysate increased and on day 16 the peritoneal catheter was removed (C. albicans growth).
+",7,9,bin7,"A 3-year-old male was admitted to the hospital with acute renal failure and septic shock, requiring maximum normal adrenaline and mechanical ventilation for 11 days. He developed disseminated intravascular coagulation and oligoanuria, with a diuresis of 0.1 ml/kg/h over 24 hours, leading to a net fluid balance of +1,200 ml and a creatinine increase to 2 mg/dl. Automated peritoneal dialysis (APD) was initiated at 36 hours post-admission. Initially, a glucose concentration of 1.36% was used, but it was later increased to 3.27% to maintain effective ultrafiltration. By day 15, there was an increase in the cellularity of the dialysate, and on day 16, the peritoneal catheter was removed due to C. albicans growth."

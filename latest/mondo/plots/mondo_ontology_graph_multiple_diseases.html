@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 600px;
+                 background-color: #222222;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "lightblue", "font": {"color": "white"}, "id": "HP:0002664", "label": "Neoplasm", "shape": "dot", "title": "HP:0002664"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0005258", "label": "autism spectrum disorder", "shape": "dot", "title": "MONDO:0005258"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0000769", "label": "Abnormality of the breast", "shape": "dot", "title": "HP:0000769"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0000820", "label": "Abnormality of the thyroid gland", "shape": "dot", "title": "HP:0000820"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0001635", "label": "Congestive heart failure", "shape": "dot", "title": "HP:0001635"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0018792", "label": "MONDO:0018792", "shape": "dot", "title": "MONDO:0018792"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0012680", "label": "Abnormality of the pineal gland", "shape": "dot", "title": "HP:0012680"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0001608", "label": "Abnormality of the voice", "shape": "dot", "title": "HP:0001608"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0001871", "label": "Abnormality of blood and blood-forming tissues", "shape": "dot", "title": "HP:0001871"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0011025", "label": "Abnormal cardiovascular system physiology", "shape": "dot", "title": "HP:0011025"}, {"color": "red", "font": {"color": "white"}, "id": "HP:0000819", "label": "Diabetes mellitus", "shape": "dot", "title": "HP:0000819"}, {"color": "red", "font": {"color": "white"}, "id": "HP:0001626", "label": "Abnormality of the cardiovascular system", "shape": "dot", "title": "HP:0001626"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0030972", "label": "Abnormal systemic blood pressure", "shape": "dot", "title": "HP:0030972"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0004930", "label": "Abnormality of the pulmonary vasculature", "shape": "dot", "title": "HP:0004930"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0025354", "label": "Abnormal cellular phenotype", "shape": "dot", "title": "HP:0025354"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0000152", "label": "Abnormality of head or neck", "shape": "dot", "title": "HP:0000152"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0001197", "label": "Abnormality of prenatal development or birth", "shape": "dot", "title": "HP:0001197"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0018105", "label": "Wolfram syndrome", "shape": "dot", "title": "MONDO:0018105"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0033127", "label": "Abnormality of the musculoskeletal system", "shape": "dot", "title": "HP:0033127"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0006707", "label": "Abnormality of the hepatic vasculature", "shape": "dot", "title": "HP:0006707"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0010457", "label": "Ogden syndrome", "shape": "dot", "title": "MONDO:0010457"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0011014", "label": "Abnormal glucose homeostasis", "shape": "dot", "title": "HP:0011014"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0000508", "label": "syndromic intellectual disability", "shape": "dot", "title": "MONDO:0000508"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0030680", "label": "Abnormal cardiovascular system morphology", "shape": "dot", "title": "HP:0030680"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0003847", "label": "hereditary disease", "shape": "dot", "title": "MONDO:0003847"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0000478", "label": "Abnormality of the eye", "shape": "dot", "title": "HP:0000478"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0700130", "label": "partial segmental duplication", "shape": "dot", "title": "MONDO:0700130"}, {"color": "lightblue", "font": {"color": "white"}, "id": "https://search.clinicalgenome.org/kb/conditions/MONDO:0100124", "label": "https://search.clinicalgenome.org/kb/conditions/MONDO:0100124", "shape": "dot", "title": "https://search.clinicalgenome.org/kb/conditions/MONDO:0100124"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0005027", "label": "epilepsy", "shape": "dot", "title": "MONDO:0005027"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0012029", "label": "Abnormal urine hormone level", "shape": "dot", "title": "HP:0012029"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0003117", "label": "Abnormal circulating hormone concentration", "shape": "dot", "title": "HP:0003117"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0100124", "label": "NAA10-related syndrome", "shape": "dot", "title": "MONDO:0100124"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0011502", "label": "Wolfram syndrome 2", "shape": "dot", "title": "MONDO:0011502"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0000648", "label": "Optic atrophy", "shape": "dot", "title": "HP:0000648"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0000707", "label": "Abnormality of the nervous system", "shape": "dot", "title": "HP:0000707"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0000834", "label": "Abnormality of the adrenal glands", "shape": "dot", "title": "HP:0000834"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0031653", "label": "Abnormal heart valve physiology", "shape": "dot", "title": "HP:0031653"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0001952", "label": "Glucose intolerance", "shape": "dot", "title": "HP:0001952"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0000119", "label": "Abnormality of the genitourinary system", "shape": "dot", "title": "HP:0000119"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0008040", "label": "transient myeloproliferative syndrome", "shape": "dot", "title": "MONDO:0008040"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0025015", "label": "Abnormal vascular morphology", "shape": "dot", "title": "HP:0025015"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0020119", "label": "X-linked syndromic intellectual disability", "shape": "dot", "title": "MONDO:0020119"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0001279", "label": "Syncope", "shape": "dot", "title": "HP:0001279"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0000598", "label": "Abnormality of the ear", "shape": "dot", "title": "HP:0000598"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0030163", "label": "Abnormal vascular physiology", "shape": "dot", "title": "HP:0030163"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0000828", "label": "Abnormality of the parathyroid gland", "shape": "dot", "title": "HP:0000828"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0000365", "label": "Hearing impairment", "shape": "dot", "title": "HP:0000365"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0000924", "label": "Abnormality of the skeletal system", "shape": "dot", "title": "HP:0000924"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0010671", "label": "microphthalmia, syndromic 1", "shape": "dot", "title": "MONDO:0010671"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0700126", "label": "trisomy 21", "shape": "dot", "title": "MONDO:0700126"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0008373", "label": "Puberty and gonadal disorders", "shape": "dot", "title": "HP:0008373"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0000818", "label": "Abnormality of the endocrine system", "shape": "dot", "title": "HP:0000818"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0700124", "label": "chromosome 21 disorder", "shape": "dot", "title": "MONDO:0700124"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0002597", "label": "Abnormality of the vasculature", "shape": "dot", "title": "HP:0002597"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0001999", "label": "Abnormal facial shape", "shape": "dot", "title": "HP:0001999"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0019040", "label": "chromosomal disorder", "shape": "dot", "title": "MONDO:0019040"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0001507", "label": "Growth abnormality", "shape": "dot", "title": "HP:0001507"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0000777", "label": "Abnormal thymus morphology", "shape": "dot", "title": "HP:0000777"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0000847", "label": "Abnormality of renin-angiotensin system", "shape": "dot", "title": "HP:0000847"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0015652", "label": "MONDO:0015652", "shape": "dot", "title": "MONDO:0015652"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0002715", "label": "Abnormality of the immune system", "shape": "dot", "title": "HP:0002715"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0001939", "label": "Abnormality of metabolism/homeostasis", "shape": "dot", "title": "HP:0001939"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0001249", "label": "Intellectual disability", "shape": "dot", "title": "HP:0001249"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0000001", "label": "All", "shape": "dot", "title": "HP:0000001"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0031072", "label": "Abnormal endocrine physiology", "shape": "dot", "title": "HP:0031072"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0001627", "label": "Abnormal heart morphology", "shape": "dot", "title": "HP:0001627"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0001574", "label": "Abnormality of the integument", "shape": "dot", "title": "HP:0001574"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0008608", "label": "Down syndrome", "shape": "dot", "title": "MONDO:0008608"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0040064", "label": "Abnormality of limbs", "shape": "dot", "title": "HP:0040064"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0001252", "label": "Hypotonia", "shape": "dot", "title": "HP:0001252"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0012758", "label": "Neurodevelopmental delay", "shape": "dot", "title": "HP:0012758"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0045027", "label": "Abnormality of the thoracic cavity", "shape": "dot", "title": "HP:0045027"}, {"color": "lightblue", "font": {"color": "white"}, "id": "http://identifiers.org/hgnc/18704", "label": "NAA10", "shape": "dot", "title": "http://identifiers.org/hgnc/18704"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0025031", "label": "Abnormality of the digestive system", "shape": "dot", "title": "HP:0025031"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0005147", "label": "type 1 diabetes mellitus", "shape": "dot", "title": "MONDO:0005147"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0015506", "label": "MONDO:0015506", "shape": "dot", "title": "MONDO:0015506"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0031071", "label": "Abnormal endocrine morphology", "shape": "dot", "title": "HP:0031071"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0030956", "label": "Abnormality of cardiovascular system electrophysiology", "shape": "dot", "title": "HP:0030956"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0700128", "label": "translocation Down syndrome", "shape": "dot", "title": "MONDO:0700128"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0100763", "label": "Abnormality of the lymphatic system", "shape": "dot", "title": "HP:0100763"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0015159", "label": "multiple congenital anomalies/dysmorphic syndrome-intellectual disability", "shape": "dot", "title": "MONDO:0015159"}, {"color": "lightblue", "font": {"color": "white"}, "id": "https://search.clinicalgenome.org/kb/conditions/MONDO:0018105", "label": "https://search.clinicalgenome.org/kb/conditions/MONDO:0018105", "shape": "dot", "title": "https://search.clinicalgenome.org/kb/conditions/MONDO:0018105"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0008047", "label": "Abnormality of the vasculature of the eye", "shape": "dot", "title": "HP:0008047"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0010800", "label": "Wolfram syndrome, mitochondrial form", "shape": "dot", "title": "MONDO:0010800"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0009101", "label": "Wolfram syndrome 1", "shape": "dot", "title": "MONDO:0009101"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0002254", "label": "syndromic disease", "shape": "dot", "title": "MONDO:0002254"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0012093", "label": "Abnormality of endocrine pancreas physiology", "shape": "dot", "title": "HP:0012093"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0000864", "label": "Abnormality of the hypothalamus-pituitary axis", "shape": "dot", "title": "HP:0000864"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0040270", "label": "Impaired glucose tolerance", "shape": "dot", "title": "HP:0040270"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0011028", "label": "Abnormality of blood circulation", "shape": "dot", "title": "HP:0011028"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0025142", "label": "Constitutional symptom", "shape": "dot", "title": "HP:0025142"}, {"color": "lightblue", "font": {"color": "white"}, "id": "MONDO:0018924", "label": "microphthalmia, Lenz type", "shape": "dot", "title": "MONDO:0018924"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0011276", "label": "Vascular skin abnormality", "shape": "dot", "title": "HP:0011276"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0000118", "label": "Phenotypic abnormality", "shape": "dot", "title": "HP:0000118"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0002086", "label": "Abnormality of the respiratory system", "shape": "dot", "title": "HP:0002086"}, {"color": "lightblue", "font": {"color": "white"}, "id": "HP:0011915", "label": "Cardiovascular calcification", "shape": "dot", "title": "HP:0011915"}]);
+                  edges = new vis.DataSet([{"from": "MONDO:0018105", "title": "is_a", "to": "HP:0000819"}, {"from": "HP:0000819", "title": "is_a", "to": "HP:0000818"}, {"from": "HP:0000819", "title": "is_a", "to": "HP:0001952"}, {"from": "HP:0002597", "title": "is_a", "to": "HP:0001626"}, {"from": "HP:0011025", "title": "is_a", "to": "HP:0001626"}, {"from": "HP:0030680", "title": "is_a", "to": "HP:0001626"}, {"from": "MONDO:0008608", "title": "is_a", "to": "HP:0001626"}, {"from": "MONDO:0100124", "title": "is_a", "to": "HP:0001626"}, {"from": "HP:0001626", "title": "is_a", "to": "HP:0000118"}, {"from": "MONDO:0008040", "title": "is_a", "to": "MONDO:0008608"}, {"from": "MONDO:0700126", "title": "is_a", "to": "MONDO:0008608"}, {"from": "MONDO:0700128", "title": "is_a", "to": "MONDO:0008608"}, {"from": "MONDO:0700130", "title": "is_a", "to": "MONDO:0008608"}, {"from": "MONDO:0008608", "title": "is_a", "to": "MONDO:0700124"}, {"from": "MONDO:0008608", "title": "is_a", "to": "HP:0001249"}, {"from": "MONDO:0008608", "title": "is_a", "to": "HP:0001999"}, {"from": "MONDO:0008608", "title": "is_a", "to": "MONDO:0005027"}, {"from": "MONDO:0008608", "title": "is_a", "to": "MONDO:0000508"}, {"from": "MONDO:0008608", "title": "is_a", "to": "MONDO:0002254"}, {"from": "MONDO:0008608", "title": "is_a", "to": "MONDO:0003847"}, {"from": "MONDO:0008608", "title": "is_a", "to": "MONDO:0015159"}, {"from": "MONDO:0008608", "title": "is_a", "to": "MONDO:0015506"}, {"from": "MONDO:0008608", "title": "is_a", "to": "MONDO:0015652"}, {"from": "MONDO:0008608", "title": "is_a", "to": "MONDO:0018792"}, {"from": "MONDO:0008608", "title": "is_a", "to": "MONDO:0019040"}, {"from": "MONDO:0010457", "title": "is_a", "to": "MONDO:0100124"}, {"from": "MONDO:0010671", "title": "is_a", "to": "MONDO:0100124"}, {"from": "MONDO:0018924", "title": "is_a", "to": "MONDO:0100124"}, {"from": "MONDO:0100124", "title": "is_a", "to": "MONDO:0020119"}, {"from": "MONDO:0100124", "title": "is_a", "to": "https://search.clinicalgenome.org/kb/conditions/MONDO:0100124"}, {"from": "MONDO:0100124", "title": "is_a", "to": "HP:0000924"}, {"from": "MONDO:0100124", "title": "is_a", "to": "HP:0001249"}, {"from": "MONDO:0100124", "title": "is_a", "to": "HP:0001252"}, {"from": "MONDO:0100124", "title": "is_a", "to": "HP:0001999"}, {"from": "MONDO:0100124", "title": "is_a", "to": "HP:0012758"}, {"from": "MONDO:0100124", "title": "is_a", "to": "MONDO:0005258"}, {"from": "MONDO:0100124", "title": "is_a", "to": "http://identifiers.org/hgnc/18704"}, {"from": "MONDO:0009101", "title": "is_a", "to": "MONDO:0018105"}, {"from": "MONDO:0010800", "title": "is_a", "to": "MONDO:0018105"}, {"from": "MONDO:0011502", "title": "is_a", "to": "MONDO:0018105"}, {"from": "MONDO:0018105", "title": "is_a", "to": "MONDO:0002254"}, {"from": "MONDO:0018105", "title": "is_a", "to": "https://search.clinicalgenome.org/kb/conditions/MONDO:0018105"}, {"from": "MONDO:0018105", "title": "is_a", "to": "HP:0000365"}, {"from": "MONDO:0018105", "title": "is_a", "to": "HP:0000648"}, {"from": "MONDO:0018105", "title": "is_a", "to": "MONDO:0005147"}, {"from": "HP:0000777", "title": "is_a", "to": "HP:0000818"}, {"from": "HP:0000820", "title": "is_a", "to": "HP:0000818"}, {"from": "HP:0000828", "title": "is_a", "to": "HP:0000818"}, {"from": "HP:0000834", "title": "is_a", "to": "HP:0000818"}, {"from": "HP:0000847", "title": "is_a", "to": "HP:0000818"}, {"from": "HP:0000864", "title": "is_a", "to": "HP:0000818"}, {"from": "HP:0003117", "title": "is_a", "to": "HP:0000818"}, {"from": "HP:0008373", "title": "is_a", "to": "HP:0000818"}, {"from": "HP:0012029", "title": "is_a", "to": "HP:0000818"}, {"from": "HP:0012093", "title": "is_a", "to": "HP:0000818"}, {"from": "HP:0012680", "title": "is_a", "to": "HP:0000818"}, {"from": "HP:0031071", "title": "is_a", "to": "HP:0000818"}, {"from": "HP:0031072", "title": "is_a", "to": "HP:0000818"}, {"from": "HP:0000818", "title": "is_a", "to": "HP:0000118"}, {"from": "HP:0040270", "title": "is_a", "to": "HP:0001952"}, {"from": "HP:0001952", "title": "is_a", "to": "HP:0011014"}, {"from": "HP:0004930", "title": "is_a", "to": "HP:0002597"}, {"from": "HP:0006707", "title": "is_a", "to": "HP:0002597"}, {"from": "HP:0008047", "title": "is_a", "to": "HP:0002597"}, {"from": "HP:0011276", "title": "is_a", "to": "HP:0002597"}, {"from": "HP:0025015", "title": "is_a", "to": "HP:0002597"}, {"from": "HP:0030163", "title": "is_a", "to": "HP:0002597"}, {"from": "HP:0100763", "title": "is_a", "to": "HP:0002597"}, {"from": "HP:0001627", "title": "is_a", "to": "HP:0030680"}, {"from": "HP:0011915", "title": "is_a", "to": "HP:0030680"}, {"from": "HP:0025015", "title": "is_a", "to": "HP:0030680"}, {"from": "HP:0000119", "title": "is_a", "to": "HP:0000118"}, {"from": "HP:0000152", "title": "is_a", "to": "HP:0000118"}, {"from": "HP:0000478", "title": "is_a", "to": "HP:0000118"}, {"from": "HP:0000598", "title": "is_a", "to": "HP:0000118"}, {"from": "HP:0000707", "title": "is_a", "to": "HP:0000118"}, {"from": "HP:0000769", "title": "is_a", "to": "HP:0000118"}, {"from": "HP:0001197", "title": "is_a", "to": "HP:0000118"}, {"from": "HP:0001507", "title": "is_a", "to": "HP:0000118"}, {"from": "HP:0001574", "title": "is_a", "to": "HP:0000118"}, {"from": "HP:0001608", "title": "is_a", "to": "HP:0000118"}, {"from": "HP:0001871", "title": "is_a", "to": "HP:0000118"}, {"from": "HP:0001939", "title": "is_a", "to": "HP:0000118"}, {"from": "HP:0002086", "title": "is_a", "to": "HP:0000118"}, {"from": "HP:0002664", "title": "is_a", "to": "HP:0000118"}, {"from": "HP:0002715", "title": "is_a", "to": "HP:0000118"}, {"from": "HP:0025031", "title": "is_a", "to": "HP:0000118"}, {"from": "HP:0025142", "title": "is_a", "to": "HP:0000118"}, {"from": "HP:0025354", "title": "is_a", "to": "HP:0000118"}, {"from": "HP:0033127", "title": "is_a", "to": "HP:0000118"}, {"from": "HP:0040064", "title": "is_a", "to": "HP:0000118"}, {"from": "HP:0045027", "title": "is_a", "to": "HP:0000118"}, {"from": "HP:0000118", "title": "is_a", "to": "HP:0000001"}, {"from": "HP:0001279", "title": "is_a", "to": "HP:0011025"}, {"from": "HP:0001635", "title": "is_a", "to": "HP:0011025"}, {"from": "HP:0011028", "title": "is_a", "to": "HP:0011025"}, {"from": "HP:0030163", "title": "is_a", "to": "HP:0011025"}, {"from": "HP:0030956", "title": "is_a", "to": "HP:0011025"}, {"from": "HP:0030972", "title": "is_a", "to": "HP:0011025"}, {"from": "HP:0031653", "title": "is_a", "to": "HP:0011025"}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

@@ -1,0 +1,500 @@
+article_id,text_references,icd_codes,age,gender,text,icd_match_count,total_icd_count,bin,text_summary
+S1575-06202010000200004-1,seborrheic dermatitis; TB brain injuries; HCV; pneumocystis jirovecii pneumonia; oropharyngeal candidiasis; pulmonary TB; brain damage from toxoplasmosis; psoriasis; prison; HIV; cachexia; pneumonia; scabby; itchy; esophageal candidiasis; recurrent pneumonias; dermatitis; thrush; toxoplasmosis; brain injuries; anemia,L21 A17 B18 B59 B37 A15 B58 L40 Z65 B20 R64 J18 R23 L29 B37 Z87 L30 B37 B58 G93 D64,40,male,"We report the case of a 40-year-old male patient, polytoxicated since adolescence, with a first admission to prison at 20 years, and repeated admissions later.
+In 1993, HIV and HCV coinfection was detected.
+Its clinical history consists of the prescription of the first mental disorder in 1998, with constant abandonment, especially during periods of freedom.
+Other pathologies of interest:
+- pneumocystitis jirovecii pneumonia (formerly known as carinii) in 1998
+- recurrent community acquired pneumonia
+- oropharyngeal and probably esophageal candidiasis,
+- pulmonary TB and cerebral lesions due to toxoplasmosis and/or TB
+- practically constant seborrheic dermatitis
+In August 2009 he presented crusted, scaly, non-pruriginous lesions of scalp onset, auricular pavilions and armpits.
+Subsequently, these lesions extended to the trunk and extremities, including soles and palms of feet and hands.
+Similar lesions in the interglottic and genital folds also appeared.
+The dermatologist advised the patient to present psoriasis, receiving treatment with calcipotriol plus betamethasone, salicylic vaseline and tracolimus 0.1%.
+This treatment was not initiated until a new imprisonment in early 2010.
+A slight improvement has been seen in recent weeks.
+At the beginning of the clinical picture, the CD4+ cell/ml lymphocyte count was 64 with an HIV CV of 1,090,000 copies/ml (6.04 log).
+He also had significant cachexia (BMI < 16) and anemia (Hbina of 10 g/dl; Htcto.
+The patient refuses to speak.
+Currently, in hospital admission to study possible etymology of brain lesions.
+",7,21,bin7,"A 40-year-old male has a history of polytoxic substance use since adolescence and has been incarcerated multiple times since his first imprisonment at age 20. In 1993, he was diagnosed with HIV and HCV coinfection. His medical history includes a mental disorder diagnosed in 1998, pneumocystitis jirovecii pneumonia, recurrent community-acquired pneumonia, oropharyngeal and probable esophageal candidiasis, pulmonary tuberculosis, cerebral lesions possibly due to toxoplasmosis or tuberculosis, and persistent seborrheic dermatitis. In August 2009, he developed crusted, scaly lesions on the scalp, ears, armpits, trunk, extremities, and genital folds, which were later identified as psoriasis and treated with calcipotriol plus betamethasone, salicylic vaseline, and tacrolimus 0.1%. Despite a slight improvement, he remains significantly immunocompromised with a CD4+ count of 64 cells/ml and an HIV viral load of 1,090,000 copies/ml, along with cachexia and anemia, and is currently hospitalized to investigate the etiology of his brain lesions."
+S1134-80462015000100006-1,pulmonary edema; hemodialysis; breathlessness; stupor; disease; erythematous lesions; low back pain; pain; arterial hypertension; hypothyroidism; renal disease; herpetic neuritis; dizziness; nausea; emesis; drowsiness; dysarthria; tachypnea; acute pulmonary edema; renal insufficiency; metabolic acidosis; acute renal failure; edema,J81 5A1D00Z R06 R40 R69 L53 M54 R52 I10 E03 N28 B02 R42 R11 R11 R40 R47 R06 J81 N19 E87 N17 R60,49,female,"A 49-year-old female patient (weight: 60 kg; height: 1.63 meters) presented to the emergency department with a 5-day history of burning and electric pain of 10/10 intensity on a verbal analogue scale.
+Pain is episodic, exacerbated by movement and does not improve with tramadol and diclofenac.
+Physical examination revealed erythematous vesicular lesions with dermal distribution on the skin of the lumbar region and left glue.
+The rest of the physical examination is normal.
+She had a history of lumbar disc disease, hypertension and hypothyroidism on medical treatment.
+The patient denied history of kidney disease.
+The patient is evaluated by an infectious disease service who considers that it is a herpetic neuritis and decide, due to the severity of the condition, to hospitalize the patient.
+During the first day and prior to the hydration protocol (500 ml of 0.9% saline solution), intravenous infusion of tramadol 10 mg/kg every 8 h (600 mg) is started.
+Consultation to pain clinic was requested to start analgesic scheme with acetaminophen + codeine (500 + 30 mg orally every 6 h), morphine dose in case of severe pain (2150 mg per dose) and pregabalin (h).
+The patient initially presents adequate analgesia without side effects, qualifying her pain in 4/10.
+On the second day of hospitalization, the patient developed dizziness, nausea, emesis, somnolence and dysarthria.
+It is considered that the clinical picture is a side effect to analgesics and it is decided to suspend acetaminophen with codeine and pregabalin.
+Morphine doses of 2 mg are prescribed in case of severe pain after a state of consciousness evaluation.
+On the third day of hospitalization, without receiving any dose of opioid, the patient persists with deterioration of her general condition, progressing to stupor, tachypnea, desaturation and respiratory distress.
+Located to the Intensive Care Unit.
+The clinical picture is compatible with acute pulmonary edema and renal failure with serum potassium in 5.7 mEq/L, BUN 50 mg/dl (admission value of 17.2), creatinine 5.01 mg/dl and metabolic acidosis blood gases.
+Nephrology confirms the diagnosis of acute renal failure secondary to the administration of antiretroviral therapy, requiring hemodialysis.
+The patient required a single hemodialysis session with improvement in the levels of nitrogen.
+Analgesic management was continued with acetaminophen 500 mg and codeine 30 mg; the patient did not require new morphine doses.
+She was discharged on the sixth day of hospitalization with controlled pain and normal renal function tests.
+",7,23,bin7,"A 49-year-old female presented to the emergency department with a 5-day history of severe burning and electric pain rated at 10/10 intensity, which was episodic and worsened by movement. The pain did not improve with tramadol and diclofenac, and physical examination revealed erythematous vesicular lesions in the lumbar region and left gluteal area. She has a medical history of lumbar disc disease, hypertension, and hypothyroidism. The infectious disease service diagnosed herpetic neuritis and decided to hospitalize her due to the severity of her condition. Initial treatment included intravenous tramadol and an analgesic regimen with acetaminophen, codeine, and pregabalin, but she developed side effects including dizziness, nausea, and somnolence, leading to the suspension of some medications. Her condition worsened, progressing to acute pulmonary edema and renal failure, requiring intensive care and hemodialysis, after which her condition improved, and she was discharged with controlled pain and normal renal function."
+S1130-05582015000100008-1,lymph nodes; right lower jaw biopsy; oral cavity biopsy; lower jaw pain; lower right maxillary region drainage; smoking; marijuana addiction; hepatitis C; HIV; pain in maxillary region; dental phlegmon; submandibular lymph nodes; Chagas; painful; chest X-ray; cocaine addiction; hepatitis B; toxoplasmosis; abdominal ultrasound; splenomegaly; LB; neutropenia; disease; hepatitis,R59 0NBT 0CB4 R68 0W95 F17 F12 B19 B20 K04 R59 B57 R52 BW03ZZZ F14 B19 B58 BW40ZZZ R16 C83 D70 R69 K75,24,female,"A 24-year-old woman with reactive HIV serology for 5 years, without antiretroviral treatment or clinical controls, who reported starting approximately one month ago with pain in the right lower jaw region.
+He consulted a dental service where swelling was found in the right lower jaw region, at the level of the lower third molar.
+Antibiotic treatment and nonsteroidal anti-inflammatory drugs were indicated.
+Two weeks later, the patient consulted again without improvement of symptoms, reporting increased pain and swelling.
+The clinical picture is interpreted as a dental phlegmon and amoxicillin/clavulanic acid and corticosteroids are indicated.
+One week before admission, due to the increase in the size of the tumor described, surgical drainage was performed, obtaining a voiding material.
+Analgesics are indicated and the same antibiotic scheme is maintained.
+Five days after this procedure, the patient was admitted to our hospital.
+The epidemiological history referred to inhaled cocaine, marijuana and smoking.
+On admission, there was a dry mouth, coughing, oriented in time and space; the physical examination highlighted the existence of a tumor formation in the right lower jaw region extending to the submentonian area 10 cm.
+It involved the gingiva, including teeth, blade perioral tissues and the right lower jaw.
+Homolateral, indurated, painless, submandibular adenomegaly adhered to skin and deep planes.
+The rest of the physical examination showed no clinically relevant alterations.
+The chest X-ray was normal.
+The admission laboratory showed: 35% Hto, GB: 7,200/mm3 (N: 70%, E: 0.3%, pregnancy: 1.6%, M mEq/mEqol: 98%, TL: 136 mg GL: 21dl negative, GL:
+Serology for Chagas and hepatitis B and C virus were negative and for toxoplasmosis: IgM: negative and IgG: positive 1/64.
+The CD4+ T lymphocyte count was 235 cells/ml (16.3%), CD8: 872/mm3 (60.5%) and the HIV viral load yielded 154,263 copies/ml (log10 4.74).
+1.
+Abdominal ultrasound revealed mild heterogeneous adenomegaly, the rest without abnormalities.
+Excisional biopsy was performed for diagnostic purposes. Histopathological examination of the material showed proliferation of lymphoid cells obtained at medium to large size cytoplasm with regular nuclei, laxa chromatin, presence of nucleic acid nuclei.
+Numerous mitoses and apoptosis phenomena were also observed.
+Immunohistochemical analysis revealed positivity for CD45, CD3, CD20, CD10 and Bcl-6 in mutant cells, and negativity for CD138, MUM-1 and Bcl-2.
+Ki67 cell proliferation index was 99%.
+Microbiological studies of biopsy material were negative for AFB and common germs.
+The definitive histopathological diagnosis was primary BL of the oral cavity.
+Bone marrow biopsy showed no evidence of atypical lymphoid cells.
+Gram stains, Gram staining and Ziehl Neelsen staining were negative.
+1.
+The patient received 6 cycles of chemotherapy based on the COPDH-R scheme (etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin, rituximab and intrathecal methotrexate).
+Neutropenia episodes were treated with granulocyte colony stimulating factor.
+After treatment, complete disappearance of the gingival lesion was observed.
+Four years later, the patient is asymptomatic, with no evidence of disease, undetectable viral load and CD4 362 cells/ml.
+",5,23,bin5,"A 24-year-old woman with a history of reactive HIV serology for 5 years, without antiretroviral treatment or clinical controls, began experiencing pain in the right lower jaw region about a month ago. She initially consulted a dental service where swelling was noted, and she was prescribed antibiotics and nonsteroidal anti-inflammatory drugs. Despite this treatment, her symptoms worsened, leading to a diagnosis of dental phlegmon and a new prescription of amoxicillin/clavulanic acid and corticosteroids. Surgical drainage was performed due to increased tumor size, but five days later, she was admitted to the hospital with a persistent tumor in the right lower jaw extending to the submentonian area. Further examination and biopsy led to a diagnosis of primary Burkitt lymphoma of the oral cavity, and she underwent six cycles of chemotherapy. Four years post-treatment, she remains asymptomatic with no evidence of disease and an undetectable viral load."
+S0378-48352004001000003-1,abdominal aortic aneurysm; asthenia; anorexy; bilirubin; jaundice; choluria; acholia; hepatomegaly; HIV; pulmonary hydatid cyst; HAV; HCV; HBV; abdominal ultrasound; portal hypertension; liver biopsy; acute hepatitis of viral etiology; liver failure; acute viral hepatitis; PSA elevation; spine pain; ischemia; bone metastases; hepatitis; disease; transjugular liver biopsy; aneurysm; necrosis; hypertension; hepatic fibrosis; hepatic necrosis; right shoulder pain; pruritus; prostate adenocarcinoma,I71 R53 R63 E80 R17 R82 K82 R16 B20 J99 B15 B19 B19 BW40ZZZ K76 0FB0 B17 K72 R97 M54 I99 C79 K75 R69 0FB03ZX I72 B67 I96 I10 K74 M25 L29 C61,69,male,"A 69-year-old male with a history of stage D2 prostate adenocarcinoma with multiple bone metastases who had received chemotherapy with mitoxontrone and prednisone for one and a half months with clinical and analytical response.
+Among the personal antecedents, emphasis was placed on pulmonary hydotid cyst follow-up 50 years ago that required transfusion of blood products, left iliofemoral bypass in 1991 for chronic arterial ischemia and abdominal aortic aneurysm of 3 cm.
+She was admitted for a clinical picture of asthenia, anorexia, pruritus and mucocutaneous jaundice, with choluria and acholia of two weeks duration.
+Physical examination revealed mucocutaneous jaundice, hepatomegaly of approximately 23 cm in the right costal margin painful to the deep rib without peritonitis.
+Blood analysis showed: Hb 13.5, leukocytes 3900 (lymphocytes 53%), platelets 159,000, prothrombin activity 53% total, INR 1.58, fibrinogen 221, cefalin time 110GT 49, alkaline urea 999.
+Serology HIV negative.
+IgM HAV negative, HBsAg+, antiHBs-, lgM anticore+, HBeAg+ and antiHBe-.
+HCV-negative markers.
+HBV DNA positive.
+1.
+Abdominal ultrasound showed no relevant findings except for liver of normal size with diffusely increased echogenicity without focal lesions, vascular permeability or signs of portal hypertension.
+A transjugular liver biopsy was performed without complications whose diagnosis was acute hepatitis of viral etiology, with regenerative changes and mild portal fibrosis.
+There were areas of hepatocyte collapse and bridging necrosis.
+Given the high probability of fulminant liver failure due to the underlying disease, it was decided to administer adefovir dipivoxil by compassionate use for the control of acute viral hepatitis.
+After initiation of treatment, the patient experienced a favorable clinical course with progressive normalisation of liver function.
+HBV DNA was negative two months after the start of treatment.
+After 3 months of treatment the control analysis showed a total bilirubin of 1.1, GOT 36, GPT 25, GGT 72 FA 426, and can start second-line chemotherapy with docetaxel for elevation of the right shoulder and reappearance.
+",6,33,bin6,"A 69-year-old male with a history of stage D2 prostate adenocarcinoma and multiple bone metastases presented with asthenia, anorexia, pruritus, and mucocutaneous jaundice, accompanied by choluria and acholia for two weeks. Physical examination revealed mucocutaneous jaundice and hepatomegaly, while blood tests indicated liver dysfunction and positive HBV markers. An abdominal ultrasound showed a liver of normal size with increased echogenicity, and a transjugular liver biopsy confirmed acute viral hepatitis with regenerative changes and mild portal fibrosis. Due to the risk of fulminant liver failure, adefovir dipivoxil was administered, leading to a favorable clinical course and normalization of liver function. After three months, the patient showed improved liver function and was able to start second-line chemotherapy with docetaxel."
+S0212-16112010000600024-1,stress; disease; weightloss; infection; sepsis; gastric ulcer; supranasal basal cell epithelioma; pain in the right inguinal region; vomiting; right inguinoscrotal herniorrhaphy; tender abdomen; malnutrition; intestinal obstruction; kidney failure; cachexia; hypermagnesemia; NPT; total parenteral nutrition; hypoproteinemia; hypoalbuminemia; severe protein-calorie malnutrition; anemia; anuria; acute kidney failure; parenteral nutrition; hyperphosphatemia; hyperkalemia; right inguinoscrotal hernia; cachectic; depression; edematous; distended abdomen; intestinal obstruction secondary to incarcerated inguinal hernia; peritonitis; shock; leukocytosis,F43 R69 R63 B99 A41 K25 C44 R10 R11 0YQ5 R10 E46 K56 N19 R64 E83 3E0436Z E77 E88 E43 D64 R34 N17 E83 E87 K40 F32 R60 R14 K40 K65 R57 D72,77,male,"We report the case of a 77-year-old man who came to the hospital emergency department complaining of vomiting for one week associated with absence of deposition, with pain in the right inguinal region lasting three days.
+There is no cognitive impairment but severe social impairment.
+Love that for a year only consumes liquids with a loss of 15kg of weight during this period (normal weight approximately 70kg; current weight at admission of 55kg).
+She hasn't been living in bed-sillion for fifteen days, lives with her 87-year-old blind woman and has poor body hygiene.
+The patient had a personal history of basal cell epithelioma with supranasal sinus not intervened and gastric ulcus previously treated with cimetidine.
+On physical examination at admission, signs of peripheral hypoperfusion, severe inguinoÆs self irreductible right-sided hypoxia, with probable painful intestinal content, abdominal distendable herniation were observed.
+Intestinal obstruction secondary to incarcerated inguinal hernia was diagnosed, so it was decided to surgically intervene, performing resection of the ischemic intestinal segment and perforated with laterolateral anastomosis and herniorrhaphy.
+Diffuse peritonitis and hemodynamic instability were observed during surgery.
+The presence of signs of shock and decreased level of consciousness despite being without sedation, the patient is admitted to the Intensive Care Unit (ICU).
+Antibiotic treatment with imipenem was started presenting a favorable evolution during the first four days, until the beginning of progressive increase of signs of infection and inflammation (leucocytosis of 38,320 leucocytes/mm3) and acute drainage gdL, suggestive of bile leaks with voiding fluid voiding fluid voiding fluids, urine with voiding fluids of 3, dL.
+These findings were treated surgically.
+From the nutritional point of view the patient presents a protein-protein, with severe hypoalbuminemia and hypoproteinemia severe albumin g/dL and iv protein malnutrition secondary to stabilization (albumin 1.4 g/dL and severe protein iv).
+Total parenteral nutrition (TPN) was initially prescribed with a macronutrient intake corresponding to a 70kg patient with severe metabolic stress.
+From the mental health service, the patient is identified as a patient at high risk of suffering RS, given his/her condition and previous psychosocial problems (foot > 20% depression in a year, severe problems).
+Associated complexity of acute renal failure and high risk of RS is recommended a progressive start of nutritional support adapting macronutrient intake to the real weight and not ideal of the patient.
+Taking into account the recommendations of the main clinical guidelines for the prevention of RS6, prophylactic administration of thiamine is recommended, and parenteral nutrition is initiated with a calorie intake of approximately 15 39% kcal / kg of total protein intake of 22%.
+During the first days, the intake of phosphate, potassium and magnesium is restricted due to renal hyperphosphatemia (phosphate 8.91 mg/dL), hyperkalemia (potassium 5.27 mEq/L) and hypermagnesemia.
+On consecutive days, protein-caloric intake slowly increases, with special precaution with nitrogen intake during the first week due to renal failure.
+From the tenth day onwards nutritional requirements are finally met.
+The energy intake is 30 kcal/kg (calorie distribution of 48% proteins, 30% lipids and 22% proteins), with a protein intake of 1.6g/kg, adapted to the patient's metabolic situation.
+During the first days the analytical and nutritional parameters evolve favorably in parallel to the improvement of renal function, until the appearance of abdominal sepsis and all the complications described above.
+1.
+Given the age of the patient, the current disease and the poor prognosis of the complications developed, it was decided in a joint session to limit the therapeutic effort, dying on the 17 day of admission.
+",8,33,bin8,"A 77-year-old man presented to the hospital emergency department with a one-week history of vomiting and absence of bowel movements, accompanied by three days of pain in the right inguinal region. He had experienced significant weight loss, approximately 15 kg over the past year, due to a liquid-only diet. The patient had a history of basal cell epithelioma and previously treated gastric ulcer. On examination, he showed signs of peripheral hypoperfusion and an irreducible right-sided inguinal hernia, leading to a diagnosis of intestinal obstruction secondary to an incarcerated inguinal hernia. Surgical intervention was performed, but the patient developed diffuse peritonitis, hemodynamic instability, and was admitted to the ICU, where he later faced complications including abdominal sepsis and acute renal failure. Despite initial improvement, his condition deteriorated, and therapeutic efforts were limited, resulting in his death on the 17th day of admission."
+S0004-06142006000700014-1,depressive syndrome; retroperitoneal lymph nodes; prostatism; painful; lung nodules; subtotal colectomy; liver CT; left subtotal colectomy; colon adenocarcinoma; descending colon carcinoma; drainage of an abscess in the abdominal wall; abdominal wall abscess; right radical orchiectomy; colon metastasis; testicular ultrasound; colon carcinoma,F32 R59 N40 R52 R91 0DBE BF25 0DBG C18 C18 0J98 L02 0VT9 C78 BV44ZZZ C16,67,male,"A 67-year-old patient with a history of depressive syndrome and prostatism was diagnosed in early 2004 with a descending colon carcinoma.
+In March that same year, a left subtotal colectomy with ileosigmoid anastomosis was performed.
+The pathological study of the colectomy specimen showed a 4x2 cm tumor compatible with a moderately differentiated adenocarcinoma of the colon (except the non-subserous fat, without lymph node involvement and with surgical margins).
+Postoperatively, an abscess was drained in the abdominal wall, and the rest of the postoperative period was uneventful.
+Analytical patient had a hematocrit of 47.7, hemoglobin of 15.6, creatinine of 0.91, urine analysis within the limits of PSA < 5.0, preoperative cancer normal (Normal Path) < 91.
+Preoperative CT scan was reported as a descending colon mass compatible with colon carcinoma with small retroperitoneal lymph nodes less than 1 cm in diameter, which were not significant, as well as chronic fibrotic lesions in the chest.
+Four months after colectomy the patient begins to notice a painful nodular mass in the right testicle.
+A testicular ultrasound was then performed to detect a heterogeneous lesion, with solid and cystic areas, at the body level of the right epididymis and that could be affecting the testicle, so we consulted the Service.
+1.
+On physical examination, we found that the patient had a painful tumor of 1-2 in the right epididymis, as well as another tumor of smaller size in the cord is a right premium centimeters.
+The patient was programmed for exploration of the lesions under spinal anesthesia with oncological criteria: inguinal incision, right test cord extraction and percutaneous clamping.
+Macroscopically, we observed, in the middle third of the right epididymis, a nodular lesion of about 2 cm in diameter, which was difficult to brush, with elastic consistency, firmly adhered to the right test.
+Apparently, the testicle was macroscopically normal and non-existent.
+Another lesion with similar characteristics appeared to encompass the cord circumferentially.
+Intraoperative biopsy was performed and informed as adenocarcinoma, because we discovered - after informing the patient who gave his consent - to perform a right radical orchiectomy, including a cord is a persistent right.
+The Pathological Anatomy Service after studying the specimen confirmed that it was a 2 cm tumor in diameter in the right middle third of the abdomen and another tumor in the cord neo centimeters with epithelial metastases consistent with adenocarcinoma 1.5 colon.
+The surgical margins and the right testicle were tumor free.
+1.
+The postoperative period was uneventful, and the patient was discharged from the Urology Department the day after the intervention, passing the patient to the Department of On-therapy and chemotherapy.
+Control and analytical CT scans were performed in postoperative controls. At 12 weeks after orchiectomy, a significant elevation of CEA was detected, which corresponded to the appearance of a large colonic lymph nodes nearby 1 cm retroperitoneal wall.
+Currently, the patient lives, as seen in the imaging studies performed after the intervention, it was found that the evolution is unfavorable despite the chemotherapy treatment, with the appearance of multiple mesenteric and hepatic implants and increased number and size of pulmonary nodules.
+",2,16,bin2,"A 67-year-old male was diagnosed with descending colon carcinoma in early 2004. In March of the same year, he underwent a left subtotal colectomy with ileosigmoid anastomosis, and the pathology report confirmed a moderately differentiated adenocarcinoma without lymph node involvement. Four months post-colectomy, the patient developed a painful nodular mass in the right testicle, and a testicular ultrasound revealed a heterogeneous lesion in the right epididymis. An intraoperative biopsy identified the lesion as adenocarcinoma, leading to a right radical orchiectomy. Post-surgery, the patient experienced an elevation in CEA levels, indicating the presence of colonic lymph nodes and subsequent imaging showed multiple mesenteric and hepatic implants, as well as increased pulmonary nodules, despite chemotherapy treatment."
+S2254-28842013000300009-1,dialysis; depression; gallbladder adenomyoma; suprarrenal insufficiency; renal replacement therapy with dialysis; peritoneal dialysis; bronchial asthma; pneumoperitoneum; diarrhea; nausea; vomiting; shaking chills; fever; pain on deep palpation predominantly in the right iliac fossa; edema; abdominal pain; chest x-ray; trigeminal neuralgia; uterine prolapse; infection; hematoma; arteriosclerosis; hypothyroidism; skin paleness; neuralgia; CAPD; abdominal x-ray; abdomen CT; hypertensive heart disease; hypercholesterolemia; type II diabetes; heart disease; peritoneal infection,5A1D F32 D13 E27 Z99 3E1M39Z J45 K66 R19 R11 R11 R68 R50 R10 R60 R10 BW03ZZZ G50 N81 B99 T14 I70 E03 R23 M79 BW00ZZZ BW20 I11 E78 E11 I51 K65,73,female,"A 73-year-old woman with a history of hypertensive heart disease, hypercholesterolemia, type II diabetes, peritoneal hysterectomy due to ambulatory cystocele correction, primary hypothyroidism, trigeminal neuralgia, left adrenal insufficiency, cholecystectomy, depression 2011.
+During the training period and in subsequent consultations, there was no evidence of poor performance of the technique by the patient, nor referred symptoms of pneumoperitoneum.
+In March 2013, the patient came to the emergency department with a one week history of abdominal pain, diarrhea, nausea without vomiting and chills without fever.
+In the physical examination of the emergency room, the patient presented pain in the deep iliac fossa, predominantly cutaneous and extremities without edema.
+TA: 100/60, Fc: 94 bpm, africa, Fr: 24 rpm, Sat.O2:89%.
+Analytical analysis (Hemogram, biochemistry and venous gas), chest and abdomen x-ray where peritoneal dialysis catheter well placed and pneumoperitoneum appears.
+After being evaluated by the surgery service, an oral contrast CAT scan showed a significant pneumoperitoneum, without any leakage of contrast or perforation of an hollow viscera.
+1.
+After the initial nursing assessment, with the previous data and interviewing the patient, there were no problems with the technique performance.
+Peritoneal dialysis was exchanged according to protocol to assess the possibility of peritoneal infection.
+No signs of infection (clear peritoneal fluid) were observed. A sample of fluid was collected for culture and analysis, resulting in: leukocytes: 80/uL, thus ruling out peritoneal infection.
+Given the patient's situation, the patient was admitted for observation.
+It is left on an absolute diet and with serum therapy.
+isolation. possibility of pneumoperitoneum being related to peritoneal dialysis technique, it is decided that the nursing staff perform peritoneal dialysis exchanges according to the schedule and after drainage, place the patient in peritoneal position Trenburg
+Subsequent studies showed a decrease in pneumoperitoneum, which was resolved almost completely at discharge.
+",4,32,bin4,"A 73-year-old woman presented to the emergency department in March 2013 with a one-week history of abdominal pain, diarrhea, nausea without vomiting, and chills without fever. On physical examination, she had pain in the deep iliac fossa and extremities without edema, with vital signs showing blood pressure of 100/60 mmHg, heart rate of 94 bpm, respiratory rate of 24 rpm, and oxygen saturation of 89%. Analytical tests and imaging, including a chest and abdomen x-ray and an oral contrast CAT scan, revealed a significant pneumoperitoneum but no leakage of contrast or perforation of a hollow viscera. Despite the pneumoperitoneum, there were no signs of peritoneal infection, as indicated by clear peritoneal fluid and leukocytes at 80/uL. The patient was admitted for observation, placed on an absolute diet with serum therapy, and subsequent studies showed a decrease in pneumoperitoneum, which resolved almost completely by discharge."
+S1699-695X2016000200009-1,optic neuritis; transverse myelitis; right optic neuritis; sudden loss of visual acuity; severe pain in the right eye; expansive lesion at spinal level; spinal MRI; altered sensation; brain MRI; altered sensitivity; multiple sclerosis; injury to three or more spinal cord segments; neuromyelitis optica; Devic's disease; plasmapheresis; spasticity; ataxia; dysmetria; hyperesthesia; painful lower back; enuresis; nocturnal enuresis; electromyogram; dysesthesia; pain; hyporeflexia; disease; blurry vision; painful; difficulty walking; MMII paralysis; right eye blurred vision; back pain; low back pain; fall off a bike; drop; fractures; bladder spasticity; loss of strength; paresthesia; urinary incontinence; electroencephalogram; hyperalgesia; pain in both lower limbs; bilateral knee pain,H46 G37 H54 H57 G95 B03B R20 B030 G35 G36 6A550Z3 R25 R27 R27 R20 M54 R32 N39 4A0FX3Z R20 R52 R29 R69 H53 R26 G82 M54 V19 W19 T14 N32 G83 R20 4A00X4Z M79 M25 M79 M25,10,male,"We report the case of a 10-year-old male with no history of interest, bilateral gonalgia, back pain and low back pain after a bicycle fall 4 days ago.
+Physical examination revealed active and passive mobility, with pain in both lower limbs.
+No data on fractures or neurological disorders were observed.
+Sport rest and local cold treatment were prescribed.
+At 48 hours, the patient comes again due to persistent pain, loss of strength, paresthesia in the lower limbs, difficulty in walking and walking, and urinary incontinence.
+Physical examination revealed decreased strength and altered sensitivity in both lower limbs.
+Suspicion of transverse myelitis was referred to the hospital emergency department.
+During her admission the blood analysis was normal, the study of the cerebrospinal fluid revealed moderate pleocytosis, without the presence of oligoclonal bands of IgG; the electroencephalogram showed no abnormalities and the evoked MM decreases.
+The electromyography revealed an alteration of the medullary somatosensory sensation through the posterior cords, without conduction through the right cord and with partial alteration of the left cord.
+Magnetic resonance imaging (MRI) of the brain was normal, however, MRI of the spinal cord showed an expansive lesion at the medullary level from D1 to D6 compatible with transverse myelitis.
+1.
+At 24 hours of admission, the patient developed severe pain in the right eye with sudden loss of visual acuity.
+She was diagnosed with right optic neuritis.
+The presence of transverse myelitis optica, with cerebral MRI did not meet criteria for multiple sclerosis and 4 medullary MRI showing three or more medullary segments (D1 to D6) was negative, antiacid
+According to the clinical evolution and despite the negativity of the antibody, the patient was diagnosed with optic neuromyelitis or Devic's disease (see diagnostic criteria Table 1).
+1.
+Initially the patient was treated with intravenous methylprednisolone at a dose of 1 g/day without improvement, so plasmapheresis was performed with good clinical outcome.
+The patient was followed by neurology, radiology and urology with progressive improvement of corticotherapy.
+Fourteen months later, the patient presented complete lower limb strength and sensitivity, normal gait, normal reflexes, absence of authenticity, ataxia or dysmetria; occasionally he presented self-limiting painful lumbar hyperesthesia.
+In the right eye, the patient maintains a blurred vision, with attenuation of color perception, although he has regained 70% of visual acuity.
+Nocturnal bladder authenticity persists and continues to be treated with desmopressin.
+",4,38,bin4,"A 10-year-old male presented with bilateral knee pain, back pain, and low back pain following a bicycle fall four days prior. Initial examination showed pain in both lower limbs but no fractures or neurological disorders. Despite rest and cold treatment, the patient returned 48 hours later with persistent pain, loss of strength, paresthesia, difficulty walking, and urinary incontinence. Further examination revealed decreased strength and altered sensitivity in the lower limbs, leading to a suspicion of transverse myelitis. MRI confirmed an expansive lesion from D1 to D6, and the patient was diagnosed with optic neuromyelitis or Devic's disease after developing right optic neuritis. Treatment with intravenous methylprednisolone and plasmapheresis resulted in progressive improvement, although some symptoms, such as blurred vision and nocturnal bladder issues, persisted."
+S1130-63432015000400006-1,hypernatremia; bacteremia; left pleural effusion; oropharyngeal squamous cell carcinoma; Guillain-Barré syndrome; Paroxysmal atrial fibrillation; diarrhea; methicillin-resistant; Streptococcus epidermidis; Mellitus diabetes; arterial hypertension; drowsiness; kidney failure; aspiration pneumonia; usual acetylsalicylic acid treatment; atrial fibrillation; dyspnoea; Syndrome of Inappropriate Secretion of Antidiuretic Hormone; pneumonia; acute kidney failure; hyponatremia; Clostridium difficile diarrhea; fever spikes; endocarditis; SIADH; febrile syndrome; metabolic acidosis; respiratory alkalosis; chest x-ray; peripheral parenteral nutrition; dysphagia; hypertension; bleeding,E87 R78 J90 C10 G61 I48 R19 Z16 B95 E11 I10 R40 N19 J69 Z79 I48 R06 E22 J18 N17 E87 A04 R50 I38 E87 E87 BW03ZZZ 3E0336Z R13 R58,82,male,"An 82-year-old man presented to the emergency department complaining of dyspnea, increased sputum and somnolence.
+Relevant personal history included: hypertension, diabetes mellitus, paroxysmal atrial fibrillation, associated oropharyngeal radical syndrome and squamous cell carcinoma T3N0M0 with inappropriate Secretion Syndrome.
+Its usual treatment consists of 100 mg acetylsalicylic acid, 1 mg lorazepam, 8 mg silidosin and 20 mg acetylsalicylic acid, all in a single daily dose (tolvaptan suspended after last admission).
+The patient was admitted with a diagnosis of bilobar pneumonia due to bronchoaspiration associated with hypoosmolar hyponatremia (sodium 101 meq/L (normal range (N.R.) 135-145 meq/L), 280 mmol/L).
+He has severe dysphagia and bleeding associated with pharyngeal tumor planning gastrostomy and starting parenteral nutrition through peripheral route, empirical antibiotic treatment with meropenem 1000 mg/8h and normal saline replacement with normal saline (IDMD 500-4 mL 0.9%).
+Upon admission to Internal Medicine, clinical and analytical improvement was observed (sodium 130 meq/L), and the Nephrology Department assessed paraneoplastic SIADH with good response to therapy that suspended serum.
+Low-dose tolvaptan treatment was restarted to avoid excessive correction (7.5 mg/24 h) and then increased at the usual dose of 15 mg/24 h.
+The patient had a febrile syndrome with no clear focus. Empirical treatment was started with cefepime 2000 mg/12 h, vancomycin 1000 mg/12 h and oseltamivir 75 mg/12 h.
+Haemocultives were requested and tested positive for Streptococcus epidermis methicillin-resistant, sensitive to vancomycin (MIC = 2 mg/L), so antibiotic treatment was maintained considering catheter bacteremia.
+Transthoracic echocardiography was performed ruling out endocarditis.
+Blood cultures were negative.
+Three days after starting treatment, vancomycin was increased to 1250 mg/12 h due to persistent fever peaks, CRP 9.6 mg/dL (R.N: 0.0-0.5 mg/dL) and procalcitonin (0.01 mcg/dL).
+After two days, new plasma concentrations were extracted, being even lower (8.4 Pharmacokinetic μg/mL) (the possibility of error in sample extraction or in the accuracy and precision of the diagnostic test was assessed by performing a 1000-mg
+Oral metronidazole 500 mg/8 h was added to treatment due to persistent Clostridium difficile diarrhea. Two days later, worsening of renal function was observed due to digestive losses, causing pre-renal failure with pre-renal hyponatremia serum levels of vancomycin (sodium:
+Acute renal failure developed and creatinine values of 5.07 mg/dL were reached in the days after discontinuation of intravenous vancomycin.
+Nine days after suspension, elimination remains very slow, with a t1/2 of 132 h and plasma concentration of 25.5 μg/mL is reached.
+Concentrations below the therapeutic range are not reached within 15 days after discontinuation of antibiotic therapy.
+The Nephrology Department administers enteral nutrition to prevent diarrhea, and performs natremic correction by suspending treatment with enteral nutrition, increasing the volume of mL of vancomycin and forced voiding therapy (saquinavir therapy).
+Vancomycin is administered by gastrostomy due to persistent Clostridium difficile diarrhea despite treatment with oral metronidazole.
+Subsequently, the patient presents hypertension, with abundant diuresis and very positive free water, resulting in hypernatremia (sodium 157 meq/L) despite the suspension of tolvaptan, which is why salty sera are reduced.
+She also had metabolic acidosis that was corrected with bicarbonate, and respiratory alkalosis. A chest X-ray was performed for suspected left pleural effusion.
+Due to persistent high plasma concentrations of vancomycin and hypernatremia, serum therapy is readjusted and desmopressin is added.
+Finally, resolution of bacteremia associated with Streptococcus epidermc methicillin-resistant vancomycin managed conservatively and enteral nutrition was suspended after renal therapy with vancomycin intoxication, paulatin resolution of the diarrhea episode, recovery of metronidazole
+",5,30,bin5,"A 82-year-old man presented to the emergency department with complaints of dyspnea, increased sputum, and somnolence. He has a history of hypertension, diabetes mellitus, paroxysmal atrial fibrillation, oropharyngeal radical syndrome, and squamous cell carcinoma. The patient was diagnosed with bilobar pneumonia due to bronchoaspiration and hypoosmolar hyponatremia, and he was started on empirical antibiotic treatment with meropenem. Despite initial improvement, he developed a febrile syndrome with no clear focus, and blood cultures tested positive for methicillin-resistant Streptococcus epidermidis, leading to the continuation of vancomycin treatment. Complications included acute renal failure, persistent Clostridium difficile diarrhea, and hypernatremia, which required adjustments in therapy and supportive care."
+S0213-12852006000600002-1,Non-Hodgkin lymphoma facial gold; perianal lesion; herpes virus; CMV; lymphoma; anal herpes virus; Diffuse histiocytic large cell lymphoma; pains; oral thrush; neutropenic; febrile; painful; nausea; vomiting and nausea; esophageal candidiasis; fever; histiocytic lymphoma; soft palate biopsies; hard palate biopsies; biopsies of the oral tumor; HIV. Positive; disease; vomiting; thrush; neutropenia; Hepatitis; abdomen echo doppler; abdomen CT; mri liver; HIV; Chagas; Toxoplasmosis; Hepatitis B; Hepatitis C; Cytomegalovirus; major weight loss; sweating,C85 K62 B00 B25 C85 A60 C83 R52 B37 D70 R50 R11 K11 B37 0CB3 0CB2 0CB4 Z21 R69 R11 B37 K75 BW40ZZZ BW20 BF35 B20 B57 B58 B19 B19 R63 R61,34,male,"A clinical case is presented: female patient, 34 years old, couple of addiction, with two children negative for HIV.
+Positive since 1995, he declared himself single and employed housewife.
+The patient was presented to the outpatient clinic during the first days of March 2005.
+On admission, negative values were recorded for VDRL, Chagas, Toxoplasmosis, Superficial Anvirus for Hepatitis B and positive for Hepatitis C and Cytomegalo (CMV).
+The CD4+ cell count resulted, at that time, in 125 cells/dl (chronic sclerosis), with the result of the viral load in tramitis.
+An antiretroviral treatment regimen for D4T, 3TC and EFAVIRENS was established.
+The patient returned 45 days later, complaining of significant weight loss, night sweats and a painless nodule at the upper right level, according to medical description.
+Hospitalization was indicated.
+A routine analysis reported a 32% hematocrit, 10 hemoglobin and 3,800 white blood cells.
+The medication was discontinued due to intolerance.
+Inside the extended portion, a stomatologist reported that the patient did not present oral candidiasis or odynophagia, but three ongoing lesions were observed: one at the level of the right upper canine
+In the posterior zone, an everted edge ulcer of necrotic background extended to the posterior zone of the molars.
+These three lesions evolved daily taking greater proportions and including the soft parts of the facial region.
+1.
+Upon general observation, the abdomen was smooth and painless.
+A new blood test showed hematocrit of 275, hemoglobin of 9.3% and white blood cells: 8,100; platelets: 237,000.
+The patient's evolution denotes signs of failure, without fever.
+Doppler ultrasound and CT angiography were performed.
+Three biopsies were taken from the oral tumor that had advanced throughout the alveolar ridge to the posterior hamular area and to the hard palate and blade on the same side.
+A 2 cm long ulcer of 1.5 width was located in the alveolar ridge in the molar zone and in the incisal zone, a conical bulging protrusion with an extreme ulcerated diameter of 2 cm.
+1.
+The result of the histological report of the oral lesions revealed a ""morphologically lymphoid cell proliferation consisting of cells of smaller to large size with two or more neighboring nuclei and evident eosinophils.
+There are numerous mitotic figures with high proliferation index, immunoblastic type to large cells"".
+Immunohistochemical staining revealed B-cells and positive staining for CD 79, CD209, and CD22 antigens.
+Tumor cells are negative for epithelial markers CD56, CD57, CD50 and CD15.
+Diffuse histiocytic lymphoma of large cells"".
+The oncological team initiated the first cycle of ERORH (prednisone+etoposide+dexamethasone+cyclophosphamide + vincristine).
+CD4 titre > 100.
+Postoperatively, the patient developed neutropenia, fever, candidiasis in the perianal area due to active herpes virus.
+The second cycle of chemotherapy was established, with general improvement without complications.
+The patient was discharged on 14/6/05 with indications for CMV treatment and with antiretroviral therapy (ARV) with D4T, EFV and ·3TC.
+The patient returned with a very poor general condition, so she was hospitalized again.
+A new magnetic resonance imaging study revealed multiple nodular images in the liver and kidney, compatible with lymphoma.
+In addition, reactivation of the very painful anal herpes virus was medicated with indinavir 800 mg daily and amphotericin B + TMS at PCP doses.
+Orofacial non-Hodgkin's lymphoma diagnosed as having a high degree of malignancy had already compromised the entire right hemiface and had higher proportions of invasion fig.
+During daily inspection, signs of the same disease were diagnosed in the intra-abdominal area and pericardium.
+There was a deterioration of the general state with persistent vomiting and nausea, generalized pain, prostration, oral and esophageal candidiasis and on 6/9/05, the patient died, febrile neutropenia, at six months.
+",8,32,bin8,"A 34-year-old female presented to the outpatient clinic in March 2005 with a history of HIV positivity since 1995. Initial evaluations showed negative results for VDRL, Chagas, Toxoplasmosis, and Hepatitis B, but positive for Hepatitis C and Cytomegalovirus (CMV), with a CD4+ cell count of 125 cells/dl. She was started on an antiretroviral regimen of D4T, 3TC, and Efavirenz but returned 45 days later with significant weight loss, night sweats, and a painless nodule, leading to hospitalization. Oral lesions were observed, and biopsies revealed diffuse histiocytic lymphoma of large cells. Despite chemotherapy and treatment for CMV and herpes virus, her condition deteriorated with multiple organ involvement, and she passed away in September 2005 due to febrile neutropenia."
+S0212-71992007000100006-1,toxoplasma; rubella; lues; Brucella; paresthesia; clumsiness; angioma in front; Facial paralysis; headache; tooth infection; allergic to pyrazolones; Smoker; B-thalassemia; splenectomy; brain CT; chest X-ray; left upper extremity paresis; weakness; drinker; Borrelia; vhs; paresis; tearing; CMV; areflexia; paresis in lower extremities; right upper extremity paresis; HIV; dysarthria; measles; parotitis; brain MRI; sensory-motor polyneuropathy; Varicella zoster; discomfort; infection,B58 B06 A53 A23 R20 R27 D18 G51 R51 K04 Z88 F17 D56 07TP B020 BW03ZZZ G83 R53 F10 A69 B00 G83 H04 B25 R29 G83 G83 B20 R47 B05 K11 B030 G60 B01 R53 B99,52,male,"A 52-year-old man with a history of hysterectomy at age 8 due to possible B-thalassemia and no cardiovascular risk factors.
+Smoker of 1 pack/day and moderate drinker.
+Allergic to pyrazolones.
+Risky sexual relations in youth
+He was admitted for presenting with a chronic dental infection, headache with oral discomfort for a week that had been added 48 hours previously left facial paralysis, sudden onset, bilateral without other symptoms.
+On physical examination, the patient presented angioma in the forehead and right eye, together with bilateral parotid swelling.
+The initial neurological examination showed bilateral peripheral facial paralysis that caused dysarthria with bilateral Bell's sign.
+Lacrimation and hearing were not affected.
+Taste disturbance in the anterior third of the tongue.
+During the days after admission, paresthesias in the fingers of the hands were added, initially in the upper right limb and then bilateral, and loss of strength in the four limbs of proximal predominance objectifying in the upper right limb tricipit 4/5+ bilateral upper limb.
+The clinic continued to progress, adding paresis in the lower extremities 4/5 of the bilateral hips with predominance of right tendinous reflexes with abolished osteotendinous flexors.
+Unrelated marching with clumsiness, keeping the march of tiptoes and heels but with weakness in both cuadps.
+The chest X-ray showed normal blood count, biochemistry and coagulation.
+Serology (Borrelia, Brucella, toxoplasma, rubella, leukes, EBV, CMV, ESR, HIV, Varicella-Zoster, measles and mumps) negative
+ACE in blood and immunoglobulin quantification were normal.
+Neuroimaging, CT and MRI showed no relevant findings.
+The CSF showed increased protein (1.5 gr/dl), without leukocytes and pandy positive with negative cytology.
+No oligoclonal bands were observed.
+Tensilon test was negative.
+ENG was performed on the seventh day of admission where there was no bilateral peripheral facial response with signs of sensory-motor polyneuropathy in extremities, later it was repeated at 14 days persisting type of proximal motor impairment in the proximal limbs.
+Initially, treatment with corticoids was established without clear clinical response and, given the progressive evolution of the clinical picture, treatment with IV immunoglobulins was established for 5 days (28 g/day), with no progression to mild clinical remission.
+After six months, the patient showed complete improvement in both facial paralysis and limb weakness, not requiring continued rehabilitation treatment.
+",7,36,bin7,"A 52-year-old man was admitted with a chronic dental infection and a week-long headache accompanied by oral discomfort. Two days prior to admission, he developed sudden bilateral facial paralysis without other symptoms. On examination, he had bilateral parotid swelling, angioma on the forehead and right eye, and bilateral peripheral facial paralysis causing dysarthria. Over the following days, he experienced paresthesias in his fingers, initially in the upper right limb and then bilaterally, along with progressive limb weakness, particularly in the proximal muscles. Despite initial treatment with corticosteroids, his condition required IV immunoglobulins, leading to complete improvement in facial paralysis and limb weakness after six months."
+S0212-16112005000600011-1,anemia; corneal ulcers; cholecystostomy; cholecystectomy; malabsorption; keratitis; hypoproteinemia; photophobia; bilateral eye pain; pancreatitis; necrosis; chronic alcoholism; chronic pancreatitis; Mellitus diabetes; insulin dependent; emphysematous cholecystitis; left eye central corneal ulcer; pancreatic pseudocyst; vitamin D deficiency; Disease; malnutrition; pain; Decreased visual acuity; severe caloric malnutrition; vitamin deficiency; vitamin A deficiency; vitamin C deficiency; weightloss,D64 H16 0F94 0FT4 K90 H16 R80 H53 H57 K85 I96 F10 K86 E11 Z79 K81 H16 K86 E55 R69 E46 R52 H54 E44 E56 E50 E54 R63,45,male,"Background: A 45-year-old man with a history of chronic alcoholism accompanied by chronic pancreatitis and insulin-dependent diabetes mellitus, who has a very low dietary intake.
+Multiple hospital admissions for exacerbations of chronic pancreatitis.
+In 2002, she underwent excision of a pancreatic pseudocyst that ended with a cystogastrostomy that resolved favorably.
+In February 2003, there was a new pericystic emphysematous admission complicated by a complicated abscess. Consequently, a Pezzer tube was placed for cholecystectomy in a second surgical procedure.
+She was discharged with a tube drainage of approximately 500 ml.
+In November 2003, the patient came to the surgery department where they requested a qualitative stool examination that resulted in increased fat and food debris, foul smell and pasty consistency.
+No treatment was prescribed.
+Current illness: Fe de 2004 comes to the emergency department with a 3-month history of bilateral eye pain, redness, stinging, photophobia and decreased visual acuity.
+She was admitted to the ophthalmology department for study and treatment.
+Pathological examination revealed ulcerative colitis in 10% of the eyes.
+In the left eye central corneal ulcer with stromal necrosis and hypnosis and only had light perception.
+Imaging tests were negative.
+Horseal cultures were negative.
+Examinations by otorhinolaryngology, digestive and rheumatology specialists were not significant.
+The patient was referred to the Nutrition Unit for weight loss of 16 kilos in the last 6 months.
+Nutritional assessment revealed severe calorie and mild protein malnutrition, weight of 52 kg with BMI of 18.2 and loss of 23% of their usual weight in the last 6 months, severe vitamin A circumference of 5.2 mm Resoluble Protein (abg)
+Reference value: 0.4-0.8) and vitamin D (Vitamine D: 0, not detected in blood.
+Reference value 15-100 ng/ml).
+Both vitamin C and B complex vitamins and zinc were normal.
+Fecal maladjustment in 24-hour stools revealed mild maladjustment (Nitrogen 2.5 g, fecal fat 6.3 g, and faecal sugars when Pancrea is already treated) in patients without fecal incontinence.
+Treatment: The patient's diet was supplemented with hyperproteic and hypercaloric special formulas for diabetics (Resource diabet® 2 beats each day), administered orally the deficit vitamins A tablet (Ncrea).
+Establishment plan: March 2004
+We evaluated the patient 3 months later and has a BMI of 20, anemia has evolved favorably.
+Horseal ulcers have healed and have almost completely recovered visual acuity (right eye 100% and left eye counting fingers (table I).
+",9,28,bin9,"A 45-year-old man with a history of chronic alcoholism, chronic pancreatitis, and insulin-dependent diabetes mellitus presented to the emergency department with a 3-month history of bilateral eye pain, redness, stinging, photophobia, and decreased visual acuity. He was admitted to the ophthalmology department, where a pathological examination revealed ulcerative colitis affecting 10% of the eyes, with a central corneal ulcer and stromal necrosis in the left eye, resulting in only light perception. The patient experienced significant weight loss of 16 kg over the past 6 months, with a nutritional assessment indicating severe calorie and mild protein malnutrition, as well as deficiencies in vitamins A and D. Treatment included dietary supplementation with hyperproteic and hypercaloric formulas for diabetics and vitamin A tablets. Three months later, the patient showed improvement with a BMI of 20, resolution of anemia, healing of corneal ulcers, and recovery of visual acuity."
+S0211-69952011000500013-1,mammography; hypocalcemia; hypercalcemia; hyperparathyroidism; tubulointerstitial nephropathy; parathyroid ultrasound; hypertrophy of the parathyroid gland; kidney transplants acute humoral rejection; kidney transplant rejection; artery calcifications; nephropathy; hemodialysis; hyperphosphatemia; SHPT; chronic renal failure,BH02ZZZ E83 E83 E21 N12 BG43ZZZ E21 T86 I70 N28 5A1D00Z E83 N25 N18,48,female,"We report the case of a 48-year-old woman with chronic renal failure secondary to tubulointerstitial nephritis.
+The patient had received replacement therapy with long-term HD and had undergone two kidney transplants with transplantectomies: the first was due to acute humoral rejection and the second due to acute humoral and vascular rejection.
+He resumed hemodialysis treatment in March 2005.
+Serum levels of intact parathyroid hormone (iPTH) were intermittently high.
+Previously, the patient had been treated with calcitriol for short periods of time, since the administration caused hypercalcemia and hyperfatemia.
+In January 2006, she had severe SHPT (with higher levels of iPTH than those presented in previous months).
+Ultrasound revealed a hyperechogenic nodular image in the medial zone of the left thyroid lobe, compatible with parathyroid gland hypertrophy.
+A radiological series showed signs of hyperparathyroidism in the bones of both hands and wrists and VC in the radial and interdigital arteries.
+Mammography showed multiple linear VC in both breasts.
+1.
+The patient was treated only with calcium carbonate.
+Subsequently, they were added to calcitriol and sevelamer (800 mg with main meals), a chelating agent (P), and the dose of oral phosphate carbonate was reduced.
+Figure 5 shows serum Ca, P and iPTH levels.
+Hyperphosphoremia was controlled after two months of treatment, and the level of Ca-P product was adequate, but iPTH levels increased to 734 pg/ml, so treatment was changed.
+Oral calcitriol was replaced by 30 mg of oral cinacalcet once a day and intravenous alphacalcidol (2 μg) immediately after hemodialysis.
+The doses of calcium carbonate and sevelamer did not change.
+1.
+Two months later, the calcimetic dose was reduced due to hypocalcemia levels (7.6 mg/dl).
+Treatment with intravenous vitamin D and calcium carbonate was maintained, and the dialysate calcium was changed from 2.5 to 3 mEq/l.
+During the following six months, the levels of all parameters were within the range recommended by the KDOQI guidelines.
+Excessive suppression of iPTH (138 pg/ml) and potential hypercalcaemia (9.4 mg/dl) were observed in November 2006, therefore treatment with carbonate and alphacalcium was discontinued.
+In January 2007 treatment with sevelamer (800 mg with main meals) and a minimum weekly calcimetic dose (30 mg on Mondays) was continued, resulting in good control of mineral metabolism, with cinacalcet resulting in good control.
+During this period, it was observed that in the radiological series the interdigital artery calcifications had a more structured appearance and that the bone had a more structured appearance.
+Mammography also showed regression of QoL.
+Initial linear calcifications were sustained by irregular grades.
+",6,14,bin6,"A 48-year-old woman with chronic renal failure secondary to tubulointerstitial nephritis had been on long-term hemodialysis and underwent two kidney transplants, both of which failed due to acute humoral and vascular rejection. She resumed hemodialysis in March 2005, and her serum levels of intact parathyroid hormone (iPTH) were intermittently high. In January 2006, she developed severe secondary hyperparathyroidism (SHPT) with elevated iPTH levels, and imaging revealed parathyroid gland hypertrophy and vascular calcifications. Initial treatment with calcium carbonate, calcitriol, and sevelamer was adjusted due to hyperphosphatemia and rising iPTH levels, leading to the introduction of cinacalcet and intravenous alphacalcidol. Over time, treatment adjustments were made to manage hypocalcemia and excessive suppression of iPTH, resulting in improved control of mineral metabolism and regression of vascular calcifications."
+S0210-56912009000900008-1,legionella; mechanic ventilation; lung neoplasm; disease; H1N1 infection; Legionella pneumonias; 24h intubation mechanical ventilation; thrombocytopenia; kidney failure; infection; hypertension; Chlamydia; severe respiratory failure; Pneumocystis jirovecii; Chlamydia pneumonias; treated with radiotherapy; atypical pneumonias; respiratory insufficiency; chest CT; acute kidney failure; disseminated intravascular coagulation; pulmonary hypertension; heart failure; pulmonary infiltrates; chest x-ray; cough; endotracheal intubation; dyspnoea; brain metastasis; treated with chemotherapy; fever,A48 5A19 D49 R69 J10 5A1945Z D69 N19 B99 I10 A74 J96 B59 J16 Z92 J18 J96 BP2W N17 D65 I27 I50 R91 BW03ZZZ R05 0BH1 R06 C79 Z92 R50,66,male,"This is a 66-year-old male with a history of lung cancer (non-small cell carcinoma stage iiiB) treated with chemotherapy and radiotherapy, who is free of disease, with subsequent appearance of a brain metastasis on which holocraneal resection is performed pending.
+She came to the emergency department with dyspnea on minimal exertion for 10 days and fever of up to 39°C. She denied cough and expectoration.
+There is no relevant epidemiological background.
+Antibiotic treatment was started on an outpatient basis without improvement.
+Upon arrival, she had severe respiratory failure requiring high FiO2, so she was admitted to the critical care unit of our center.
+It presents rapid progression of respiratory failure and requires orotracheal intubation and mechanical ventilation 24h later.
+The initial chest X-ray showed an alveolar infiltrate in the left base with bilateral pulmonary infiltrates in subsequent controls.
+Catheterization of the pulmonary artery was performed, ruling out heart failure, with pulmonary capillary pressure below 18mmHg, and showing signs of moderate pulmonary hypertension.
+Analytically, disseminated intravascular coagulation (D05 and elevated lactate 20,000ng/ml), maximum thrombocytopenia 47,000/l and maximum prothrombin time 2.3mg/dl, acute renal failure stand out.
+Antibiotic treatment was initiated empirically with piperacillin-tamethasone and tape, and corticosteroids were added later.
+Given the poor evolution, with persistence of severe respiratory failure and worsening of pulmonary infiltrates of unrelated cause, a chest CT is performed showing bilateral parenchymal involvement very extensive in ground-glass or infectious character that indicates diffuse alveolar damage.
+Bronchoalveolar lavage was performed with negative bacteriological culture, Ziehl-Nielsen negative and cystis jirovecii negative.
+Serology of positive pneumonia was requested to diagnose leptospirosis (Legionella, Chlamydia, etc.) which are negative and, finally, due to the clinical characteristics and probable pandemic situation for influenza A (H1N1) virus is added.
+The patient has a good clinical evolution with rapid improvement of the infiltrates, and wean the ventilation without incidents.
+The patient was discharged after one month of hospitalization.
+1.
+Of the health professionals who cared for the patient presented symptoms indicative of influenza in the following days.
+",6,30,bin6,"A 66-year-old male with a history of non-small cell lung cancer, previously treated with chemotherapy and radiotherapy, presented to the emergency department with dyspnea on minimal exertion for 10 days and a fever reaching 39°C. Despite outpatient antibiotic treatment, his condition did not improve, and upon arrival, he exhibited severe respiratory failure requiring high FiO2, leading to admission to the critical care unit. His respiratory failure progressed rapidly, necessitating orotracheal intubation and mechanical ventilation within 24 hours. Initial imaging revealed alveolar infiltrates, and further tests ruled out heart failure but indicated moderate pulmonary hypertension and acute renal failure. Despite empirical antibiotic and corticosteroid treatment, his condition worsened, prompting a chest CT that showed extensive bilateral parenchymal involvement. A bronchoalveolar lavage was negative for common pathogens, and serology for pneumonia was negative, leading to a suspicion of influenza A (H1N1) virus, after which the patient showed rapid clinical improvement and was discharged after one month."
+S0004-06142009000900012-1,disease; pain; infection; abdominal CT; right inguinal region pain; dedifferentiated liposarcoma of the spermatic cord; neck mass; papillary thyroid carcinoma; inguinoscrotal mass; mass in right iliac fossa; patient rejects it; brain tumor; thyroid mass; breathlessness; hypochondrium pain; rectal examination; inguinal lymphadenopathy; hyperglycemia; low back pain; urinary tract infection; right radical orchidectomy; right iliac fossa mass; Arterial hypertension; diabetes mellitus 2; fever; locoregional adenopathies; irritative urinary symptoms; coronary heart disease; painful; general discomfort; breast cancer; intravenous antibiotic; adenopathies; abdominal tomography,R69 R52 B99 BW20ZZZ R10 C63 R22 C73 R22 D49 Z53 D49 E07 R06 R10 0DJDXZZ R59 R73 M54 N39 0VT9 I10 E11 R50 R59 R39 I25 R53 C50 3E03329 BW20,65,male,"We report the case of a 65-year-old man who presented to the emergency department in August 2005 with a 72-hour history of sudden pain in the hypochondrium and right inguinal region, fever, malaise and urinary symptoms.
+She has a history of hypertension and diabetes mellitus 2 under treatment, her mother had breast cancer, her father coronary disease and her sister a brain tumor.
+Upon admission to the emergency department, blood pressure (BP) was 130, respiratory rate (HR): 80 pulses per minute, respiratory rate (RR): 18 breaths per minute, temperature (cm): 3
+In the neck, a thyroid mass of 4 x 6 cm was observed. The mass was indurated, was not mobile and painless due to palpation, without inflammatory changes.
+On physical examination, a large mass was found in the right flank and iliac fossa. The mass was not located in the left inguiniculous region tact. There was no inflammatory consistency, the mobile test showed a palpable mass.
+The patient presents pain to the right lumbar percussion and urinary tract infection was confirmed by urocultive, intravenous antibiotic treatment was initiated.
+Dehydrogenated lactate (LDH) levels were determined, resulting in 300 U/L.
+During hospitalization he presented hyperglycemia (259 mg/dl), normal creatinine (0.8 mg/dl), Leukocytes 17850 Neuils 86% Hemoglobin 16 Platelets 275,000.
+Antibiotic management decreased the signs of systemic inflammatory response.
+A contrasted abdominal tomography (CT) was performed (September 2005) which reported the presence of a large mass in the right iliac fossa that displaces the bladder toward the contralateral side and continues to the right hemiscrotum.
+No evidence of regional lymphadenopathy.
+Exertion of the tumor was performed along with radical orchidectomy of the same side of a lobulated, lobulated mass, folded, surface, 5786 cm measured 34 x 22 x 1786 cm, and
+Complete extraction was achieved without complications, the patient had a good postoperative clinical evolution, so it was decided to give exit on the 5th postoperative day.
+1.
+The pathology report confirms that the tumor lesion corresponds to a malignant neoplasm of mesenchymal and sarcomatous origin formed by tumoral adipogenic cells in which a differentiated hypnoid appearance is observed in the middle of which there are some pleomorphic cells bizar.
+The tumor corresponds to a dedifferentiated liposarcoma in which the adipose component is classic well-differentiated liposarcoma (lipoma-like) from which emerges islands of chordosarcoma-free component with liposarcoma-free margins, corresponding to such findings
+It is suggested to start local radiotherapy but the patient rejects it by accepting only periodic clinical controls.
+During the follow-up, cervical aspiration cytology was performed, the pathological report of which reports papillary thyroid carcinoma, currently under follow-up by on.
+Forty-eight months after resection of the inguinal mass the patient is asymptomatic, without clinical or paraclinical signs of tumor recurrence.
+",4,31,bin4,"A 65-year-old man presented to the emergency department with a 72-hour history of sudden pain in the hypochondrium and right inguinal region, accompanied by fever, malaise, and urinary symptoms. He has a medical history of hypertension and type 2 diabetes mellitus, and a family history of breast cancer, coronary disease, and a brain tumor. Upon examination, a large mass was found in the right flank and iliac fossa, and a thyroid mass was observed in the neck. A urinary tract infection was confirmed, and intravenous antibiotics were initiated. A contrasted abdominal CT revealed a large mass in the right iliac fossa, leading to surgical excision and radical orchidectomy, with the pathology report confirming a dedifferentiated liposarcoma. The patient had a good postoperative recovery and declined radiotherapy, opting for periodic clinical follow-ups."
+S1699-695X2015000100011-1,myoclonus; encephalitis; depression; disease; mycoplasma; seizure; brain MRI; psychotic depression; HIV; Brucella; Cytomegalovirus; herpes simplex; Syphilis; Toxoplasmosis; confused; PL; lues; electroencephalogram; EEG; encephalopathy; stuporous; psychotic disorder; intramuscular haloperidol; dystonias; acute intermittent porphyria; complex tonic seizures; endotracheal intubation; facial myoclonus; gynecological ultrasound; abdominal ultrasound; agitation; delusions; apathetic; generalized tonic-clonic seizure; ovarian teratoma; substance abuse; viral encephalitis; behavioral disturbances; disorientation; depressive picture; psychiatric illness; lumbar puncture; brain tomography,G25 G04 F32 R69 B96 R56 B030 F32 B20 A23 B25 B00 A53 B58 R41 009U3ZX 4A00X4Z G93 R40 F29 3E023NZ G24 E80 G40 0BH1 G51 BU4CZZZ BW40ZZZ R45 R45 D27 F19 A86 F91 F99 B020,29,female,"A 29-year-old woman, single, lives with her parents, with no history of organic or psychiatric pathology or toxic abuse, was admitted to neurology due to behavioral changes, disorientation and lack of connection with the environment.
+The family reported that it was the first of these characteristics, which for two weeks had seen the patient desanimating little communicative (not identifying any trigger), there was no mention of the biological aspect, support, lost rhythm, etc.
+All this was the reason for great family distress, so they went to the family doctor, being treated as a depressive condition and being given sertraline 50 mg/day (1 week before admission).
+The evolution was torpid, presenting episodes of psychomotor agitation and disorientation, reason why the family decides to take the patient to the emergency room.
+There was no family history of significant psychiatric or organic disease.
+On examination, apart from spatio-temporal disorientation and agitation, nothing remarkable was found, with no neurological focus.
+Cerebral laboratory tests (blood count, coagulation, liver, kidney, thyroid, urine, folic acid and vitamin B12) and tomography were normal.
+Urine toxicities were negative.
+Lumbar puncture (LP) showed 26 leukocytes/mm3.
+The patient presented a generalized tonic-clonic seizure in the emergency room. She was admitted with a presumptive diagnosis of viral encephalitis, and started treatment with beta-blocker and valproic acid.
+During admission, she was evaluated by Psychiatry.
+The family again reported that the patient had been apathetic for two weeks, repeating that she had ""dry veins of the head"".
+It was classified as a psychotic depression and venlatine 75 mg/day was discontinued.
+Serology for HIV, Brucella, Cytomegalovirus, Herpes Sifilis, Toxoplasmosis and Epstein were negative.
+During the first week of hospitalization, the patient was confused, had unmotivated soliloquies and laughs.
+LP was repeated (34 leukocytes/mm3, lymphocytes 100 %, serology and cerebrospinal fluid (CSF) culture for Brucella, Lúes and Borrellia were negative).
+Brain MRI was normal.
+The antidepressant was suspended and tiapride was paused.
+During the second week, the electroencephalogram (EEG) showed signs of moderate diffuse slow encephalopathy.
+The patient did not respond to simple orders, she was mute, stuporous, so tiapride was discontinued, leaving intramuscular haloperidol in case of agitation.
+Due to the torpid evolution she was admitted to the ICU with the withdrawal of valproic acid and the initiation of levetirazepam.
+The patient began to present involuntary movements and dystonias.
+Transthoracic echocardiography was normal.
+Megadoses of corticosteroids and hemin were added (suspected as acute intermittent porphyria).
+Due to the most frequent complex tonic seizures, sedation and endotracheal intubation were decided.
+Uroporphyrins were not detected, coproporphyrins and zinc were within normal limits (the hemine was suspended).
+LP was repeated, showing normal mycobacterial and mycoplasma etiology.
+Sedation was removed during the fourth week: the patient responded to simple orders, had facial myoclonus and buccolingual movements, and the patient was admitted for extubation.
+EEG showed signs of diffuse encephalopathy.
+Prion disease (protein-negative in CSF) was ruled out.
+Gynecologic ultrasound showed a slightly enlarged ovary.
+During the sixth week, ceruloplasmin, serum copper and abdominal ultrasound were normal.
+The patient was more conscious and reactive.
+The possibility of encephalitis in relation to non-objectified teratoma was raised.
+LP was repeated for the presence of paraneoplastic antibodies (anti-Hu, anti-Yo, anti-Ri, anti-CV2, anti-physin, anti-NMDA), anti-NMDA and anti-canal antibodies.
+Recipients were diagnosed with Alzheimers Disease (CD-R) due to agitation-psychotics and delusions of mental disorder (NAM), starting with ziprasidone 40 mg/day, up to 160 mg/day.
+",9,36,bin9,"A 29-year-old woman was admitted to neurology due to behavioral changes, disorientation, and lack of connection with her environment. Her family reported that these symptoms began two weeks prior, with the patient becoming less communicative and showing no identifiable trigger. Initially treated for depression with sertraline, her condition worsened, leading to episodes of psychomotor agitation and disorientation, prompting an emergency room visit. Despite normal initial lab tests and imaging, she experienced a generalized tonic-clonic seizure and was treated for presumptive viral encephalitis. Over the course of her hospitalization, she exhibited confusion, involuntary movements, and dystonias, leading to ICU admission and various treatments, including corticosteroids and hemin. Eventually, the possibility of encephalitis related to a non-objectified teratoma was considered, and further testing for paraneoplastic antibodies was conducted."
+S1130-63432015000200008-1,former smoker; hypertension; dyslipidemia; colon neoplasm; history of coronary bypass; Noninvasive mechanical ventilation; acute myocardial infarction; Respiratory infection; ischemic heart disease; heart disease; history of acute myocardial infarction; lower respiratory tract infection; mechanic ventilation; fever; dyspnoea; severe respiratory failure; chest x-ray; pneumonia; pulmonary embolism; endotracheal intubation; adult respiratory distress syndrome; chest CT scan; interstitial pneumonitis; infection; asthenia; colon adenocarcinoma,Z87 I10 E78 D49 Z95 5A09 I21 J98 I25 I51 I25 J22 5A19 R50 R06 J96 BW03ZZZ J18 I26 0BH1 J80 BW24 J84 B99 R53 C18,78,male,"A 78-year-old man presented with a history of hypertension, dyslipidemia and ischemic heart disease due to acute myocardial infarction who required double coronary bypass grafting for 22 years.
+The patient underwent colonic neoplasia with pathological result of stage III adenocarcinoma (pT3pN2M0).
+Given the patient's medical history, the use of fluoroquinidines is not recommended.
+For this reason adjuvant chemotherapy was initiated according to the TOMOX scheme at adjusted doses (raltitrexed 2.5 mg/m2 and oxaliplatin 100 mg/m2 every 3 weeks).
+A total of 8 cycles are planned.
+Tolerance is correct.
+At the follow-up visit prior to the seventh cycle, the patient reported having received antibiotic treatment the previous days due to lower respiratory tract infection diagnosed by his family doctor.
+The patient was afflicted with mild deterioration of renal function and asthenia grade II. Therefore, it was decided to postpone the cycle.
+At this time, the total cumulative doses of raltitrexed and oxaliplatin are 26 mg and 1,040 mg, respectively.
+48 hours after the last visit, the patient came to the emergency room for fever of 38.5oC and dyspnea on minimal exertion.
+Arterial gas showed parameters compatible with severe respiratory failure.
+The chest X-ray showed bilateral pulmonary infiltrates and dubious condensation in the right lower lobe.
+The patient was admitted under suspicion of severe pneumonia, starting broad-spectrum empirical antibiotic therapy and non-invasive mechanical ventilation.
+Echocardiography ruled out pulmonary thromboembolism.
+At 48h, due to respiratory worsening, the patient is transferred to the Intensive Care Unit (ICU) requiring endotracheal intubation.
+It is suggested as severe respiratory failure secondary to community-acquired pneumonia without germ vs pulmonary toxicity due to cytological confirmation associated with adult respiratory distress syndrome.
+Interactions with the patient's chronic medication are ruled out.
+The results of microbiological studies (blood and sputum), as well as serology for atypical microorganisms were all negative.
+Chest computed tomography showed diffuse interstitial pneumonitis.
+Given the clinical course of the patient, it was decided to start high-dose treatment (prednisone 1mg/kg/day), under suspicion of pulmonary toxicity to corticosteroids.
+The evolution of the patient was torpid, with death after 17 days of ICU admission.
+",3,26,bin3,"A 78-year-old man with a history of hypertension, dyslipidemia, and ischemic heart disease presented with a recent diagnosis of stage III adenocarcinoma following colonic neoplasia. He was undergoing adjuvant chemotherapy with the TOMOX scheme, which included raltitrexed and oxaliplatin, and had completed six cycles with correct tolerance. Prior to the seventh cycle, he developed a lower respiratory tract infection, leading to mild renal deterioration and asthenia, prompting a postponement of chemotherapy. Shortly after, he presented to the emergency room with fever and dyspnea, and was diagnosed with severe pneumonia, requiring ICU admission and mechanical ventilation. Despite treatment, his condition deteriorated, and he was suspected to have pulmonary toxicity, leading to his death 17 days after ICU admission."
+S1130-01082009000400015-1,abdominal MRI; gastric stump endoscopic biopsies; history of gastrectomy; partial gastrectomy; peptic gastric ulcer; abdominal pain; abdominal ultrasound; distended gallbladder; bile duct dilation; upper digestive endoscopy; total gastrectomy; abdominal CT,BW30 0DB68ZX Z90 0DB6 K25 R10 BH49ZZZ K82 K83 0DJ68ZZ 0DT6 BW20,69,male,"69-year-old male patient with a history of partial gastrectomy 30 years ago for peptic gastric ulcus with reconstruction type Bill germroth II who was admitted for a clinical course of eight days consisting of mild abdominal pain in
+Abdominal ultrasound showed a distended gallbladder, dilatation of intrahepatic and extrahepatic bile ducts and a large cystic formation of the right colony and walls, occupying the left hypochondrium to the tubular morphology.
+CT and MRI confirmed these findings.
+Upper gastrointestinal endoscopy revealed thickened gastric stumps in the afferent loop biopsies, which suggested endoscopic folds in cases where they were confirmed after histological study.
+The patient underwent surgery, with total gastrectomy and esophageal-jejunal anastomosis.
+",2,12,bin2,"A 69-year-old male with a history of partial gastrectomy 30 years ago for peptic gastric ulcer was admitted with an eight-day history of mild abdominal pain. Abdominal ultrasound revealed a distended gallbladder, dilated intrahepatic and extrahepatic bile ducts, and a large cystic formation in the right colon, extending to the left hypochondrium. CT and MRI confirmed these findings. Upper gastrointestinal endoscopy showed thickened gastric stumps in the afferent loop, with biopsies suggesting endoscopic folds, which were confirmed histologically. The patient subsequently underwent surgery, including total gastrectomy and esophageal-jejunal anastomosis."
+S0378-48352006000300005-1,dyspnoea; abdominal CT; adenopathies; lung mass; lymphoma; chest CT; lung lymphoma; chest x-ray; Lung CT; chronic liver disease; mediastinum biopsy; right lung biopsy minithoracotomy; lung CT; left lung PAAF; left lung fine needle aspiration; oxygen therapy treatment; left lung computed tomography; disease; abdominal ultrasound; LLBCP; Small B-cell lymphocytic lymphoma; cough; fever; extrinsic asthma; enolism; smoking history; smoking; lung scintigraphy study with gallium-67; hypoventilation; neutrophilia; thrombocytopenia; pneumonia; bronchoscopy; non-hodgkin lymphoma; NHL; tachypnea,R06 BW20 R59 R91 C85 BW24 C85 BW03ZZZ BB24 K76 0WBC 0BBK0ZX 0BBL3ZX Z99 R69 BW40ZZZ C83 R05 R50 J45 F10 Z87 F17 CB12YZZ R06 D72 D69 J18 0BJ08ZZ R06,72,female,"A 72-year-old woman with a history of smoking (50 pack-years), alcoholism and extrinsic asthma presented with fever, cough and increased dyspnea.
+On physical examination, the patient presented with a febricula (37.9o C), tachypnea and hypoventilation with sedatives.
+No visceromegaly or lymphadenopathy were observed.
+Laboratory tests showed mild neutrophilia and mild thrombocytopenia, and Gram and Ziehl-Neelsen stain were negative.
+The chest X-ray showed left paracardiac condensation with air bronchogram, which erased the cardiac silhouette and the computerized axial tomography (CAT) confirmed the existence of a left pulmonary infiltrate, with pulmonary involvement.
+With the suspected diagnosis of bronchodilator pneumonia, treatment was initiated with bronchodilators, antibiotic therapy and amoxicillin-clavulanic acid, with clinical improvement and disappearance of the fever.
+The patient was discharged for follow-up in the pulmonology department where, due to the persistence of the condensation image, the patient was studied.
+Bronchoscopy showed nonspecific inflammatory signs in the left bronchial tree with normal right; cytology of aspirate and bronchial brushing was negative for malignancy.
+CT-guided needle aspiration (FNAC) revealed a monomorphic lymphoid proliferation consistent with non-Hodgkin lymphoma (NHL).
+A lung biopsy by minithoracotomy confirmed the diagnosis of small cell lymphocytic lymphoma B (small cell lymphoma) CD 20 positive, bcl-2 positive, and p-53 negative.
+1.
+Biological studies showed a slight increase in ESR, b2-microglobulin and the presence of a IgM lambda minimonoclonal band in the proteinogram.
+Viral serology and autoimmunity study (ANOES) were negative.
+Abdominal ultrasound showed incipient signs of diffuse chronic liver disease and abdominal CT showed no lymphadenopathy.
+A new chest CT scan confirmed the presence of a dense, homogeneous, 5x7 cm lung mass, with a fixed-form pattern on the basis of apex, pericardium, upper mediastinum, and chest wall deviation.
+Bone biopsy ruled out lymphoma.
+With the diagnosis of low grade primary pulmonary lymphoma (PPL), oral treatment was initiated with chlorambucil pulses, 40 mg orally day 1, and prednisone, 100 mg/day for 4 days, every 4 weeks.
+In the first reassessment, after four cycles of chemotherapy, the size of the tumor mass had not changed, so the patient was proposed treatment with intravenous polychemotherapy that he rejected.
+Continuous chlorambucil was then started at a dose of 3 mg/day.
+A new chest CT scan showed a decrease in lung mass diameter greater than 50% (8 months later) and greater than 75% (16 months after starting daily treatment).
+As side effects presented liver toxicity, both WHO grade I, so the dose of chlorambucil was reduced to 1 mg/day.
+After two years of continuous treatment, chest X-rays and CT scans showed pulmonary well defined parenchymas, and only a residual fibrous tract was observed in the left lung.
+A gallium-67 scintigraphy showed hyperactivity at the middle third of the left hemithorax, thus confirming the existence of residual disease.
+Despite this, the patient has maintained therapeutic abstention, in very good partial remission (MBRP) and progression-free survival to date (progression-free interval of 53 months).
+",3,30,bin3,"A 72-year-old woman with a history of smoking, alcoholism, and extrinsic asthma presented with fever, cough, and increased dyspnea. Physical examination revealed febricula, tachypnea, and hypoventilation, while laboratory tests showed mild neutrophilia and thrombocytopenia. Imaging studies identified a left pulmonary infiltrate, leading to a suspected diagnosis of bronchodilator pneumonia, for which she was treated with bronchodilators and antibiotics, resulting in clinical improvement. However, persistent imaging findings prompted further investigation, revealing non-Hodgkin lymphoma, specifically small cell lymphocytic lymphoma B. Treatment with chlorambucil and prednisone led to a significant reduction in lung mass size, although liver toxicity was noted, necessitating dose adjustment. After two years, imaging showed only a residual fibrous tract, and the patient remains in very good partial remission with a progression-free interval of 53 months."
+S0365-66912007000100010-1,both eyes upper eyelid edema; eyelid retraction; edema; hypertension; both eyes conjunctival chemosis; conjunctivitis; smoking habit; episcleritis; exophthalmos; keratitis; eyelid edema,H02 H02 R60 I10 H11 H10 F17 H15 H05 H02 H16 H02,42,male,"42 year old male patient admitted to our hospital with recurrent episodes of conjunctivitis and episcleritis that did not improve with conventional treatment.
+He did not refer personal history or habits of interest, only about one episode per day was reported.
+Corrected visual acuity (VA) was found in both eyes; biomicroscopic findings included conjunctival chemosis +/++++ and superficial edema.
+The patient did not have bladder augmentation or exophthalmos and the intraocular pressure (IOP) was 13/11 mmHg.
+Classification according to the NONSPECS index of 2-b, 5-a.
+Basic laboratory tests (biochemistry and blood count) were normal, thyroid hormones (T3,T4,TSH) were elevated.
+The patient was referred to the endocrinologist with the diagnosis of mild-moderate glaucoma with antithyroid treatment and topical ocular treatment.
+In subsequent revisions, progression of disease towards a moderate-severe stage was observed, with worsening of biomicroscopic signs, development of right retraction (24I in the left hemisphere and 24 mm in the left eye and 122 mm in the lower).
+An octreoscan was performed, consisting of an injection of 6 mg of intravenous In111-octreotide and planar imaging study by photon emission tomography at four and twenty-four hours.
+These images revealed the presence of activity at the orbital level using a qualitative contrast method comparing the uptake with the background (occipital bone tissue), so treatment was started with lanreotide 90 mg every 3 weeks followed by an intramuscular injection.
+1.
+After treatment, the test was repeated, demonstrating a decrease in orbital uptake.
+The corrected VA was 1 in the RE and 0.9 in the LE, with a mild inferior corneal epitheliopathy persisting.
+IOP was 17/14 mm Hg with topical hypotensive treatment in RE and trabeculectomy in OI (one month after starting treatment) due to sustained hypertension (≈36 mmHg) unresponsive to medical treatment.
+The exophthalmoscopy was performed at 22 mm AO and the retraction was achieved at 2 mm upper and 1 mm lower AO while waiting for surgery.
+",3,12,bin3,"A 42-year-old male was admitted with recurrent episodes of conjunctivitis and episcleritis that were unresponsive to conventional treatment. Despite normal basic laboratory tests, his thyroid hormones were elevated, leading to a referral to an endocrinologist. He was diagnosed with mild-moderate glaucoma and started on antithyroid and topical ocular treatments. Over time, his condition progressed to a moderate-severe stage, with worsening biomicroscopic signs and development of right retraction. An octreoscan revealed orbital activity, prompting treatment with lanreotide, which resulted in decreased orbital uptake and improved visual acuity, although mild inferior corneal epitheliopathy persisted."
+S0365-66912004001100011-1,hyperemia; herpes; cicatrization; herpetic eye; diabetes mellitus type 2; left eye fundus; eye pain; hypertension; dermatitis; Herpes zoster; corneal ulceration; keratitis; Candida albicans; necrosis; corneal perforation; pain; hypopyon; ocular hypertension; blurry vision; corneal scarring; adherent walleye; waterfall,R68 B00 L90 B02 E11 08J1XZZ H57 I10 L30 B02 H16 H16 B37 I96 H16 R52 H20 H40 H53 H17 H17 H26,71,female,"A 71-year-old woman with a history of type 2 diabetes mellitus was referred for corneal ulceration of probable herpetic etiology of the left eye for two months, accompanied by mild eye pain.
+The patient reported having suffered ocular inflammation associated with frontal dermatitis, compatible with herpes zoster, two years earlier.
+In the first visit, the visual acuity was 0.4 in the right eye and counting fingers at 1 meter in the left eye, mild bilateral cataract, normal cough and eye fundus without significant changes in both eyes.
+In the left eye, a superficial and central corneal ulceration was observed, with well-defined infiltrates at the edges, associated with an inflammatory reaction in the anterior chamber (cell wall 2+).
+Samples were taken for microbiological culture by corneal scraping. Oral itraconazole 200 mg/24h was prescribed, associated with topical treatment with amphotericin B 0.15%, cefazolin 50 mg/ml and tobramycin based on suspicion.
+Culture showed growth of Candida albicans, reason why the same treatment was maintained.
+Corneal perforation worsened rapidly up to 6 days, preceded by a significant increase in pain, severe hyperemia, extension of corneal epithelial defect, appearance of necrosis and ocular hypertension,
+An amniotic membrane transplantation (triple layer) was performed urgently, preceded intraoperatively by a new sample collection by corneal scraping for microbiological culture.
+The result of this culture (aerobic and anaerobic) was negative for bacteria.
+Medical treatment was initiated with intravenous voriconazole (200 mg/24 h) associated with oral aceclofenac, artificial synthetic preservatives and topical brimonidine.
+After 10 days, intravenous administration of voriconazole (200 mg/24 h) was suspected and maintained for 6 weeks.
+The clinical picture responded favorably to treatment, progressively disappearing inflammatory signs during the first 15 days.
+The patient only presented blurred vision at the beginning of treatment and a slight increase in LDH in blood, without other side effects.
+Good integration of amniotic membrane graft was observed, but later required a penetrating keratoplasty due to residual corneal scarring (adherent leukemia).
+",8,22,bin8,"A 71-year-old woman with a history of type 2 diabetes mellitus was referred for corneal ulceration of probable herpetic etiology in the left eye, present for two months and accompanied by mild eye pain. Two years prior, she experienced ocular inflammation associated with frontal dermatitis, consistent with herpes zoster. At the initial visit, her visual acuity was 0.4 in the right eye and counting fingers at 1 meter in the left eye, with mild bilateral cataracts and a superficial central corneal ulceration in the left eye. Despite treatment with oral itraconazole and topical medications, the condition worsened, leading to corneal perforation and necessitating urgent amniotic membrane transplantation. Subsequent cultures were negative for bacteria, and treatment with intravenous voriconazole was initiated, resulting in a favorable response and resolution of inflammatory signs. However, the patient later required penetrating keratoplasty due to residual corneal scarring."
+S0212-71992004001100007-1,shaking chills; edema; chest x-ray; ICC; Neisseria sicca; Infectious endocarditis; Transthoracic echocardiography; TTE; mitral valve prosthesis; loss of strength in the left side of the body; Cranial CT; brain CT; echocardiographic study; brain bruise; fever; hepatomegaly; TEE; dyspnoea; edema in MMII; He was receiving treatment with acenocoumarol; congestive heart failure; AHT; tricuspid annuloplasty; with metal mitral prosthesis; Transesophageal echocardiography; chronic atrial fibrillation; mitral tricuspid rheumatic valve disease; hematoma; Endocarditis; fovea; orthopnea; atrial fibrillation,R68 R60 BW03ZZZ I50 A54 I33 B246ZZZ Z95 G81 BN20 B020 S06 R50 R16 B246ZZ4 R06 R60 Z79 I10 02UJ I48 I08 T14 I38 R06 I48,60,male,"Male patient, 60 years old, with Björk-metallic mitral valve stenosis and congestive tricuspid annuloplasty 20 years ago for rheumatic heart valve disease, chronic atrial fibrillation NYHA I, hypertension
+He was treated with acenocoumarol.
+She was admitted to our service due to fever, chills and worsening of her habitual dyspnea, with the appearance of orthopnea and edema in the lower limbs.
+Clinical examination was compatible with CHF (swollen jugular veins, arrhythmic pulse at 100bpm, gallop rhythm, bilateral basal pulmonary crepitants, and hepatomegaly of the lower limbs).
+Laboratory tests showed a hemoglobin of 12.4 g/L, leukocytes 17.810/ml, with 87% neutrophils, and the rest of the usual parameters were within normal limits.
+The chest X-ray showed signs of CHF.
+Serial hemocultives were performed in which Neisseria Sicca was persistently isolated, so treatment with intravenous sodium penicillin G was initiated 24 million units in continuous perfusion and the first patient afentamicin I.
+(4) During admission, red and painful lesions appeared in the finger pulps of both hands compatible with vasculitic phenomena, performing, therefore, the diagnosis of Endocrinitis according to clinical criteria.
+Transthoracic echocardiography (TTE) and transesophageal echocardiography (TEE) showed a normal functioning mitral prosthesis and absence of vegetations.
+On the 9th day of treatment the patient presented a sudden episode of loss of strength in the left hemibody, visualized in a cranial CAT scan with hyper-occipital foci compatible with temporal-parietal and hemorrhagic level 3.
+At that time in I.N.R. it was 2.45, although anticoagulation was discontinued.
+Four days later, and after patient stabilization, it was decided to restart anticoagulation with intravenous heparin sodium, completing 6 weeks of antibiotic treatment and heparin.
+The control brain CT after treatment showed persistent occipitoparietal hematoma, with other hemorrhagic foci.
+If signs and symptoms persist, discontinue Viraferon therapy and institute appropriate medical therapy.
+",2,26,bin2,"A 60-year-old male was admitted with fever, chills, and worsening dyspnea, along with orthopnea and lower limb edema. He has a history of Björk-metallic mitral valve stenosis, congestive tricuspid annuloplasty for rheumatic heart valve disease, chronic atrial fibrillation, and hypertension, and was on acenocoumarol. Clinical examination indicated congestive heart failure, and laboratory tests revealed leukocytosis with neutrophilia. Neisseria Sicca was isolated from blood cultures, leading to a diagnosis of endocarditis and initiation of intravenous sodium penicillin G treatment. During his hospital stay, he developed vasculitic lesions on his fingers and experienced a sudden loss of strength in the left hemibody, with a cranial CT scan showing hemorrhagic foci. Anticoagulation was temporarily discontinued but later resumed with heparin, and he completed six weeks of antibiotic treatment."
+S0212-71992004000300009-1,mycoplasma; adenopathy; adenopathies; painful; disease; laterocervical adenopathy; right laterocervical lymphadenopathy; adenopathy in the left laterocervical region; fever; profuse night sweats; adenovirus; left supraclavicular adenopathies; Salmonella; cough; Salmonella typhi; HBV; Salmonella paratyphi; Rickettsia; rubella; measles; Mumps; biopsy of left laterocervical adenopathy; HCV; Syphilis; HIV; CMV; brucellosis; toxoplasmosis; lymphadenitis; chest X-ray; abdominal ultrasound,B96 R59 R52 R69 R59 R50 R61 B97 A02 R05 A01 B19 A01 A79 B06 B05 B26 07B2 B19 A53 B20 B25 A23 B58 I88 BW03ZZZ BW40ZZZ,22,male,"A 22-year-old male presented with painful lymphadenopathy in the left laterocervical region for 4 months, which did not decrease in size with antibiotics or NSAI.
+The patient reported several days of fever of up to 38 oC and night sweats due to constipation, coughing and pharyngeal discomfort, symptoms that disappeared.
+On examination, the patient had an adenopathy in the left laterocervical region of 2 cm in diameter, not adhered to superficial or deep planes, not painful to palpation and elastic consistency.
+He also had two other adenopathies with similar characteristics, approximately 1.5 cm in diameter, in the left supraclavicular region and right laterocervical region.
+The rest of the examination showed no relevant findings.
+Complete blood count, biochemistry with tumor markers (CEA, α FP, PSA), chest X-ray, abdominal ultrasound and immunological study (ANAs, ANTI-RNP, ANTI-ROMmB, NRTI-
+Mantoux was negative.
+Serology was performed with the following results: toxoplasmosis, brucellosis, CMV, EBV, HIV, syphilis, adenovirus, mycoplasma, HBV Paper, HCV, Salmonella typhi and paratyphicci IgM negative for rubI, IgM + weak
+Biopsy of the left laterocervical adenopathy was performed, with the following result: lymph node showing its preserved architecture, except in an area that affects the cortical and paracortical areas in which there is an abundant lymphoid proliferation Tblasts.
+No granulocytes were observed.
+The rest of the ganglion shows follicles with activated germinal centers and paracortical zone stimulation.
+This biopsy was diagnostic of histiocytic necrotizing lymphadenitis or Kikuchi-Fujimoto disease.
+",5,27,bin5,"A 22-year-old male presented with painful lymphadenopathy in the left laterocervical region for 4 months, which did not respond to antibiotics or NSAIDs. He experienced several days of fever up to 38°C, night sweats, constipation, coughing, and pharyngeal discomfort, though these symptoms eventually resolved. On examination, he had a 2 cm adenopathy in the left laterocervical region and two other adenopathies in the left supraclavicular and right laterocervical regions, all with similar characteristics. Laboratory tests, including complete blood count, biochemistry with tumor markers, and serology, were conducted, revealing weakly positive IgM for rubella. A biopsy of the left laterocervical adenopathy showed lymphoid proliferation and was diagnostic of histiocytic necrotizing lymphadenitis, also known as Kikuchi-Fujimoto disease."
