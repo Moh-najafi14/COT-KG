@@ -1,0 +1,10 @@
+id,name,type
+C15.9,"Malignant neoplasm of esophagus, unspecified",Disease
+K22.2,Esophageal obstruction,Disease
+R50.9,"Fever, unspecified",Symptom
+B00.9,"Herpesviral infection, unspecified",Disease
+R13.10,"Dysphagia, unspecified",Symptom
+F17.210,"Nicotine dependence, cigarettes, uncomplicated",Disease
+R60.9,"Edema, unspecified",Symptom
+B99.9,Unspecified infectious disease,Disease
+R63.4,Abnormal weight loss,Symptom

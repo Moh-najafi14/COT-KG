@@ -1,0 +1,11 @@
+id,name,type,color,x,y
+B99.9,Unspecified infectious disease,ICD,green,0,0
+C81.90,"Hodgkin lymphoma, unspecified, unspecified site",ICD,green,200,0
+G93.40,"Encephalopathy, unspecified",ICD,green,400,0
+K72.00,Acute and subacute hepatic failure without coma,ICD,green,600,0
+K72.90,"Hepatic failure, unspecified without coma",ICD,green,800,0
+K92.1,Melena,ICD,green,0,200
+K92.2,"Gastrointestinal hemorrhage, unspecified",ICD,green,200,200
+R58,"Hemorrhage, not elsewhere classified",ICD,green,400,200
+R69,"Illness, unspecified",ICD,green,600,200
+R74.0,Missing,Predicted Only,orange,800,200

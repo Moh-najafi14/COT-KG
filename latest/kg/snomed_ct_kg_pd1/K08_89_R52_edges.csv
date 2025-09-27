@@ -1,0 +1,5 @@
+source,target,relationship,confidence,color
+K08.89,R52,Is a,unknown,lightblue
+R52,R52,Is a,unknown,lightblue
+K08.89,K08.89,Is a,unknown,lightblue
+R52,K08.89,ASSOCIATED_WITH,high,orange

@@ -1,0 +1,3 @@
+source,target,relationship,confidence,supporting_text
+K08.109,SNOMED_CT_127013003,ASSOCIATED_WITH,High,"The patient was diagnosed with partial edentulism, which is a related condition to the complete loss of teeth."
+SNOMED_CT_127013003,ICD10_K08.3,ASSOCIATED_WITH,Medium,Partial edentulism was mentioned along with severe alveolar sequestration of the edentulous premaxilla region.

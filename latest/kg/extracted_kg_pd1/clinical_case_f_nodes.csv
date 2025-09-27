@@ -1,0 +1,10 @@
+id,name,type
+K92.2,"Gastrointestinal hemorrhage, unspecified",Disease
+N80.5,Endometriosis of intestine,Disease
+K56.60,Unspecified intestinal obstruction,Disease
+R19.8,Other specified symptoms and signs involving the digestive system and abdomen,Disease
+I10,Essential (primary) hypertension,Disease
+K42.9,Umbilical hernia without obstruction or gangrene,Disease
+R58,"Hemorrhage, not elsewhere classified",Symptom
+R10.814,Left lower quadrant abdominal tenderness,Symptom
+R10.32,Left lower quadrant pain,Symptom

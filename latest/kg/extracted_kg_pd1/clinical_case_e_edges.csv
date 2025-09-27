@@ -1,0 +1,6 @@
+source,target,relationship,confidence,supporting_text
+C81.90,K72.00,COMPLICATES,High,"The patient, undergoing chemotherapy for Hodgkin's disease, developed acute liver failure."
+C81.90,K92.1,COMPLICATES,High,"During chemotherapy, the patient developed melena, a sign of gastrointestinal bleeding."
+K72.00,G93.40,CAUSES,High,The patient had signs of encephalopathy due to acute liver failure.
+K92.2,K72.00,CAUSES,High,Massive gastrointestinal bleeding contributed to acute liver failure.
+B99.9,K72.00,INCREASES_RISK,Medium,Histological analysis suggested a herpetic infection with necrotizing inflammatory lesions.

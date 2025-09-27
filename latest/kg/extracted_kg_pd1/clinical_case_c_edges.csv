@@ -1,0 +1,4 @@
+source,target,relationship,confidence,supporting_text
+M79.81,T14.8,Complication of,High,"A blow of cough followed by a bulging of the entire right anterior rectum, very painful and hard consistency."
+E11.9,M79.81,Associated with,Moderate,"The patient has a history of IDDM (Insulin-dependent diabetes mellitus), which could contribute to the development of soft tissue hematoma."
+R05,T14.8,Cause of,High,"The patient presented with a blow of cough, which led to the subsequent bulging of the right anterior rectum and the development of a hematoma."

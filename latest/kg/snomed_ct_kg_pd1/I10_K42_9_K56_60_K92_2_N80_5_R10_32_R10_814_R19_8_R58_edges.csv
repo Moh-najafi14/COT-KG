@@ -1,0 +1,16 @@
+source,target,relationship,confidence,color
+R58,R19.8,Is a,unknown,lightblue
+N80.5,K56.60,COMPLICATES,High,orange
+I10,I10,Is a,unknown,lightblue
+I10,K92.2,INCREASES_RISK,Low,orange
+R10.814,R10.32,ASSOCIATED_WITH,High,orange
+K92.2,R58,Is a,unknown,green
+K92.2,R19.8,Is a,unknown,lightblue
+K42.9,N80.5,ASSOCIATED_WITH,Moderate,orange
+K92.2,N80.5,COMPLICATES,High,orange
+K92.2,K92.2,Is a,unknown,lightblue
+R19.8,R19.8,Is a,unknown,lightblue
+R10.814,R10.814,Is a,unknown,lightblue
+K42.9,K42.9,Is a,unknown,lightblue
+R58,R58,Is a,unknown,lightblue
+R10.32,R10.32,Is a,unknown,lightblue

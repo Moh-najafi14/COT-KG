@@ -1,0 +1,10 @@
+id,name,type,color,x,y
+I10,Essential (primary) hypertension,ICD,green,0,0
+K42.9,Umbilical hernia without obstruction or gangrene,ICD,green,200,0
+K56.60,Missing,Predicted Only,orange,400,0
+K92.2,"Gastrointestinal hemorrhage, unspecified",ICD,green,600,0
+N80.5,Missing,Predicted Only,orange,800,0
+R10.32,Left lower quadrant pain,ICD,green,0,200
+R10.814,Left lower quadrant abdominal tenderness,ICD,green,200,200
+R19.8,Other specified symptoms and signs involving the digestive system and abdomen,ICD,green,400,200
+R58,"Hemorrhage, not elsewhere classified",ICD,green,600,200

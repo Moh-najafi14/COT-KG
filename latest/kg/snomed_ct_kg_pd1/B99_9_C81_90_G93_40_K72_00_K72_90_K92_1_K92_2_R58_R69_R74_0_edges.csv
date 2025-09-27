@@ -1,0 +1,24 @@
+source,target,relationship,confidence,color
+K72.00,K72.90,Is a,unknown,lightblue
+K92.1,K92.1,Is a,unknown,lightblue
+K72.90,K72.90,Is a,unknown,lightblue
+R69,R69,Is a,unknown,lightblue
+C81.90,K92.1,COMPLICATES,High,orange
+K72.00,G93.40,CAUSES,High,orange
+K72.00,B99.9,Is a,unknown,lightblue
+K72.00,R69,Is a,unknown,lightblue
+B99.9,B99.9,Is a,unknown,lightblue
+K72.90,R69,Is a,unknown,lightblue
+B99.9,R69,Is a,unknown,lightblue
+R58,R58,Is a,unknown,lightblue
+R58,R69,Is a,unknown,lightblue
+K92.1,R58,Is a,unknown,lightblue
+C81.90,C81.90,Is a,unknown,lightblue
+K92.1,K92.2,Leads to,unknown,lightblue
+K92.2,B99.9,Leads to,unknown,lightblue
+K92.2,R58,Is a,unknown,lightblue
+K92.2,K92.2,Is a,unknown,lightblue
+K72.00,K72.00,Is a,unknown,lightblue
+B99.9,K72.00,INCREASES_RISK,Medium,orange
+C81.90,K72.00,COMPLICATES,High,orange
+K92.2,K72.00,CAUSES,High,orange

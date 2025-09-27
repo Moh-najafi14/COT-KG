@@ -1,0 +1,6 @@
+source,target,relationship,confidence,color
+M79.81,M79.81,Is a,unknown,lightblue
+E11.9,E11.9,Is a,unknown,lightblue
+R05,T14.8,Cause of,High,orange
+E11.9,M79.81,Associated with,Moderate,orange
+M79.81,T14.8,Complication of,High,orange

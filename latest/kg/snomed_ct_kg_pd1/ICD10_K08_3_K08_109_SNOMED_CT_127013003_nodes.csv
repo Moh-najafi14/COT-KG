@@ -1,0 +1,4 @@
+id,name,type,color,x,y
+ICD10_K08.3,Missing,Predicted Only,orange,0,0
+K08.109,"Complete loss of teeth, unspecified cause, unspecified class",ICD,green,200,0
+SNOMED_CT_127013003,Missing,Predicted Only,orange,400,0

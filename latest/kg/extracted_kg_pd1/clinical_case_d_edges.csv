@@ -1,0 +1,6 @@
+source,target,relationship,confidence,supporting_text
+C15.9,K22.2,COMPLICATES,High,"Gastroscopy showed partial stenosis of the esophageal lumen, likely caused by malignant neoplasm."
+R13.10,K22.2,ASSOCIATED_WITH,High,"Dysphagia to solids and liquids was mentioned, which is commonly associated with esophageal obstruction."
+R50.9,K22.2,ASSOCIATED_WITH,Moderate,"Fever was noted occasionally, which can be associated with esophageal obstruction or infection."
+F17.210,C15.9,INCREASES_RISK,High,Active smoking is a well-known risk factor for developing esophageal cancer.
+R63.4,R13.10,ASSOCIATED_WITH,Low,"The clinical notes did not mention significant weight loss, but it is often seen with dysphagia in various conditions."

@@ -1,0 +1,7 @@
+source,target,relationship,confidence,supporting_text
+K92.2,N80.5,COMPLICATES,High,Histological study confirmed colon endometriosis with transmural involvement causing areas of fibrosis and hemorrhage.
+N80.5,K56.60,COMPLICATES,High,"The stenosing area was resected with end-to-end anastomosis, indicating an obstruction caused by endometriosis."
+K92.2,R58,ASSOCIATED_WITH,Moderate,The clinical notes mention hemorrhage related to gastrointestinal conditions.
+I10,K92.2,INCREASES_RISK,Low,"The patient has a history of hypertension, which may complicate gastrointestinal hemorrhage."
+K42.9,N80.5,ASSOCIATED_WITH,Moderate,"The patient has a history of umbilical hernia, which could be associated with abdominal pain and gastrointestinal symptoms."
+R10.814,R10.32,ASSOCIATED_WITH,High,"The patient presented with abdominal tenderness and pain, both localized in the left lower quadrant."

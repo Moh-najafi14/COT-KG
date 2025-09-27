@@ -1,0 +1,11 @@
+id,name,type
+B99.9,Unspecified infectious disease,Disease
+C81.90,"Hodgkin lymphoma, unspecified",Disease
+R74.0,Elevated transaminase and LDH,Symptom
+K72.90,"Hepatic failure, unspecified",Disease
+R58,"Hemorrhage, not elsewhere classified",Symptom
+K92.1,Melena,Symptom
+K92.2,"Gastrointestinal hemorrhage, unspecified",Disease
+G93.40,"Encephalopathy, unspecified",Disease
+K72.00,Acute and subacute hepatic failure,Disease
+R69,"Illness, unspecified",Disease

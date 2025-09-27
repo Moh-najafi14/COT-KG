@@ -1,0 +1,4 @@
+id,name,type
+K08.109,"Complete loss of teeth, unspecified cause, unspecified class",Disease
+SNOMED_CT_127013003,Partial edentulism,Disease
+ICD10_K08.3,Severe alveolar sequestration,Disease

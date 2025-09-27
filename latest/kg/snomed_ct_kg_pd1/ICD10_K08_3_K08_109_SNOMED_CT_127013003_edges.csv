@@ -1,0 +1,3 @@
+source,target,relationship,confidence,color
+K08.109,K08.109,Is a,unknown,lightblue
+SNOMED_CT_127013003,ICD10_K08.3,ASSOCIATED_WITH,Medium,orange

@@ -1,0 +1,10 @@
+id,name,type,color,x,y
+B00.9,"Herpesviral infection, unspecified",ICD,green,0,0
+B99.9,Unspecified infectious disease,ICD,green,200,0
+C15.9,"Malignant neoplasm of esophagus, unspecified",ICD,green,400,0
+F17.210,"Nicotine dependence, cigarettes, uncomplicated",ICD,green,600,0
+K22.2,Esophageal obstruction,ICD,green,800,0
+R13.10,"Dysphagia, unspecified",ICD,green,0,200
+R50.9,"Fever, unspecified",ICD,green,200,200
+R60.9,"Edema, unspecified",ICD,green,400,200
+R63.4,Abnormal weight loss,ICD,green,600,200
