@@ -79,6 +79,4 @@ generated = "A sick person went to the clinic."
 ---
 
 ## Acknowledgment
-This code was developed by **Ivan Makohon**, Computer Science Department, Old Dominion University.
-
-
+This code was developed by **Ivan Makohon**, Computer Science Department, Old Dominion University. It supported parts of our research presented in “Enhancing Clinical Note Generation with ICD-10, Clinical Ontology Knowledge Graphs, and Chain-of-Thought Prompting Using GPT-4.”
